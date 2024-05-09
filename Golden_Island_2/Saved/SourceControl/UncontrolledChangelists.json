@@ -5,7 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/yueer/Documents/Unreal Projects/Golden_Island_2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/yueer/Documents/Unreal Projects/Golden_Island_2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/footsteps_grass_1-6810.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/footsteps_grass_1-6810_Cue.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/get_coin_sound.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/get_coin_sound_Cue.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/get_item_sound.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/get_item_sound_Cue.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/rustling-leaves-6875.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/rustling-leaves-6875_Cue.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/woodland-bird-calls-in-spring-23905.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/woodland-bird-calls-in-spring-23905_Cue.uasset"
 			]
 		}
 	]

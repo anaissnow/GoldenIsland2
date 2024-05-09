@@ -1269,3 +1269,74 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.09-04.29.53:583][  1]LogAssetRegistry: AssetRegistryGather time 1.1645s: AssetDataDiscovery 0.4103s, AssetDataGather 0.6671s, StoreResults 0.0871s.
 [2024.05.09-04.29.53:669][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000544 seconds (updated 0 objects)
 [2024.05.09-04.29.54:214][  3]LogD3D12RHI: Cannot end block when stack is empty
+[2024.05.09-04.30.20:201][118]LogSlate: Took 0.009554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.09-04.30.29:984][887]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.09-04.30.30:000][887]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.09-04.30.30:017][888]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.09-04.30.32:262][ 78]LogContentBrowser: Attempting asset rename: NewFolder -> SFX
+[2024.05.09-04.30.32:263][ 78]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.09-04.31.18:912][378]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../Music/.wav files/footsteps_grass_1-6810.wav)
+[2024.05.09-04.31.18:922][378]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave footsteps_grass_1-6810...
+[2024.05.09-04.31.19:049][378]LogAudio: Display: Chunk sizes for SoundWave /Game/GameContent/SFX/footsteps_grass_1-6810.footsteps_grass_1-6810: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.09-04.31.19:054][378]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave footsteps_grass_1-6810...
+[2024.05.09-04.31.19:058][378]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../Music/.wav files/get_coin_sound.wav)
+[2024.05.09-04.31.19:060][378]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave get_coin_sound...
+[2024.05.09-04.31.19:079][378]LogAudio: Display: Chunk sizes for SoundWave /Game/GameContent/SFX/get_coin_sound.get_coin_sound: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.09-04.31.19:081][378]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave get_coin_sound...
+[2024.05.09-04.31.19:085][378]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../Music/.wav files/get_item_sound.wav)
+[2024.05.09-04.31.19:090][378]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave get_item_sound...
+[2024.05.09-04.31.19:115][378]LogAudio: Display: Chunk sizes for SoundWave /Game/GameContent/SFX/get_item_sound.get_item_sound: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.09-04.31.19:115][378]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave get_item_sound...
+[2024.05.09-04.31.19:124][378]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../Music/.wav files/rustling-leaves-6875.wav)
+[2024.05.09-04.31.19:134][378]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave rustling-leaves-6875...
+[2024.05.09-04.31.19:189][378]LogAudio: Display: Chunk sizes for SoundWave /Game/GameContent/SFX/footsteps_grass_1-6810.footsteps_grass_1-6810: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.09-04.31.19:192][378]LogAudio: Display: Chunk sizes for SoundWave /Game/GameContent/SFX/get_coin_sound.get_coin_sound: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.09-04.31.19:192][378]LogAudio: Display: Chunk sizes for SoundWave /Game/GameContent/SFX/get_item_sound.get_item_sound: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.09-04.31.19:273][378]LogAudio: Display: Chunk sizes for SoundWave /Game/GameContent/SFX/rustling-leaves-6875.rustling-leaves-6875: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.09-04.31.19:276][378]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave rustling-leaves-6875...
+[2024.05.09-04.31.19:352][378]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../Music/.wav files/woodland-bird-calls-in-spring-23905.wav)
+[2024.05.09-04.31.19:432][378]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave woodland-bird-calls-in-spring-23905...
+[2024.05.09-04.31.20:123][378]LogAudio: Display: Chunk sizes for SoundWave /Game/GameContent/SFX/rustling-leaves-6875.rustling-leaves-6875: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.09-04.31.20:124][378]LogAudio: Display: Chunk sizes for SoundWave /Game/GameContent/SFX/woodland-bird-calls-in-spring-23905.woodland-bird-calls-in-spring-23905: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.09-04.31.20:140][378]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave woodland-bird-calls-in-spring-23905...
+[2024.05.09-04.31.20:423][383]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.591 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2024 files in 3225 folders with total size 77 MiB.
+[2024.05.09-04.31.21:009][429]LogAudio: Display: Chunk sizes for SoundWave /Game/GameContent/SFX/woodland-bird-calls-in-spring-23905.woodland-bird-calls-in-spring-23905: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.09-04.31.31:849][172]LogSlate: Took 0.000465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.09-04.31.45:102][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.09-04.31.46:575][196]LogSlate: Window 'Save Content' being destroyed
+[2024.05.09-04.31.46:613][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-04.31.46:799][196]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.009313 seconds
+[2024.05.09-04.31.46:821][196]LogSavePackage: Moving output files for package: /Game/GameContent/SFX/footsteps_grass_1-6810
+[2024.05.09-04.31.46:821][196]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/footsteps_grass_1-68100360A61A4A72FC4B843925B8720580B2.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/footsteps_grass_1-6810.uasset'
+[2024.05.09-04.31.46:827][196]LogSavePackage: Moving output files for package: /Game/GameContent/SFX/footsteps_grass_1-6810_Cue
+[2024.05.09-04.31.46:827][196]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/footsteps_grass_1-6810_Cue46272B524AFF6D7321154F95D7A30620.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/footsteps_grass_1-6810_Cue.uasset'
+[2024.05.09-04.31.46:832][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/SFX/get_coin_sound" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/get_coin_sound.uasset" SILENT=true
+[2024.05.09-04.31.46:841][196]LogSavePackage: Moving output files for package: /Game/GameContent/SFX/get_coin_sound
+[2024.05.09-04.31.46:841][196]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/get_coin_sound21451EE3470FCB9462DD20BE32DE232C.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/get_coin_sound.uasset'
+[2024.05.09-04.31.46:847][196]LogSavePackage: Moving output files for package: /Game/GameContent/SFX/get_coin_sound_Cue
+[2024.05.09-04.31.46:847][196]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/get_coin_sound_CueE31F606543875E2FEADEF9B73BD564E6.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/get_coin_sound_Cue.uasset'
+[2024.05.09-04.31.46:854][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/SFX/get_item_sound" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/get_item_sound.uasset" SILENT=true
+[2024.05.09-04.31.46:860][196]LogSavePackage: Moving output files for package: /Game/GameContent/SFX/get_item_sound
+[2024.05.09-04.31.46:860][196]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/get_item_sound5208202544BF9A082FC837A82E406185.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/get_item_sound.uasset'
+[2024.05.09-04.31.46:865][196]LogSavePackage: Moving output files for package: /Game/GameContent/SFX/get_item_sound_Cue
+[2024.05.09-04.31.46:865][196]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/get_item_sound_Cue32924C334397633AF8DFDD927C5BEBC1.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/get_item_sound_Cue.uasset'
+[2024.05.09-04.31.46:884][196]LogSavePackage: Moving output files for package: /Game/GameContent/SFX/rustling-leaves-6875
+[2024.05.09-04.31.46:884][196]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/rustling-leaves-687521DD8E20402B7512D8941CA8E1861F12.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/rustling-leaves-6875.uasset'
+[2024.05.09-04.31.46:890][196]LogSavePackage: Moving output files for package: /Game/GameContent/SFX/rustling-leaves-6875_Cue
+[2024.05.09-04.31.46:890][196]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/rustling-leaves-6875_CueCDE281D5480C2DE97B2366B52F90FBE1.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/rustling-leaves-6875_Cue.uasset'
+[2024.05.09-04.31.46:994][196]LogSavePackage: Moving output files for package: /Game/GameContent/SFX/woodland-bird-calls-in-spring-23905
+[2024.05.09-04.31.46:994][196]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/woodland-bird-calls-in-spring-2343F2F2764DA4208058EFB09603D090B0.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/woodland-bird-calls-in-spring-23905.uasset'
+[2024.05.09-04.31.46:998][196]LogSavePackage: Moving output files for package: /Game/GameContent/SFX/woodland-bird-calls-in-spring-23905_Cue
+[2024.05.09-04.31.46:998][196]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/woodland-bird-calls-in-spring-234FFF3403439A3CB33B72DB940F450B8D.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/woodland-bird-calls-in-spring-23905_Cue.uasset'
+[2024.05.09-04.31.47:018][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 405 ms
+[2024.05.09-04.31.47:021][196]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.09-04.31.47:022][196]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/GameContent/SFX/footsteps_grass_1-6810.footsteps_grass_1-6810
+[2024.05.09-04.31.47:022][196]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/GameContent/SFX/footsteps_grass_1-6810_Cue.footsteps_grass_1-6810_Cue
+[2024.05.09-04.31.47:022][196]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/GameContent/SFX/get_coin_sound.get_coin_sound
+[2024.05.09-04.31.47:022][196]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/GameContent/SFX/get_coin_sound_Cue.get_coin_sound_Cue
+[2024.05.09-04.31.47:022][196]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/GameContent/SFX/get_item_sound.get_item_sound
+[2024.05.09-04.31.47:022][196]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/GameContent/SFX/get_item_sound_Cue.get_item_sound_Cue
+[2024.05.09-04.31.47:022][196]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/GameContent/SFX/rustling-leaves-6875.rustling-leaves-6875
+[2024.05.09-04.31.47:022][196]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue
+[2024.05.09-04.31.47:022][196]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/GameContent/SFX/woodland-bird-calls-in-spring-23905.woodland-bird-calls-in-spring-23905
+[2024.05.09-04.31.47:022][196]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/GameContent/SFX/woodland-bird-calls-in-spring-23905_Cue.woodland-bird-calls-in-spring-23905_Cue
