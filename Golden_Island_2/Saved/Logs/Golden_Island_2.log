@@ -1291,3 +1291,41 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.14-11.31.41:823][721]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.05.14-11.31.41:823][721]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
 [2024.05.14-11.31.41:824][721]LogSlate: Window 'Open Level' being destroyed
+[2024.05.14-11.54.50:589][307]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.05.14-11.54.50:678][307]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5144
+[2024.05.14-11.54.51:347][309]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{bf6e0386-9c8f-4248-84c9-060f6f39630f}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=521.56
+[2024.05.14-11.54.51:347][309]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.14-11.54.51:349][309]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.14-12.31.09:641][843]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.260 and deleted 0 files with total size 0 MiB and 28 empty folders. Scanned 1961 files in 3205 folders with total size 85 MiB.
+[2024.05.14-13.31.09:620][639]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.238 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1961 files in 3177 folders with total size 85 MiB.
+[2024.05.14-14.31.08:653][434]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.271 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1961 files in 3177 folders with total size 85 MiB.
+[2024.05.14-15.31.09:593][234]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.198 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1961 files in 3177 folders with total size 85 MiB.
+[2024.05.14-16.31.09:754][ 31]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.360 and deleted 452 files with total size 6 MiB and 451 empty folders. Scanned 1961 files in 3177 folders with total size 85 MiB.
+[2024.05.14-17.31.08:647][826]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.250 and deleted 0 files with total size 0 MiB and 191 empty folders. Scanned 1509 files in 2726 folders with total size 78 MiB.
+[2024.05.14-18.31.08:603][623]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.205 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1509 files in 2535 folders with total size 78 MiB.
+[2024.05.14-19.16.36:143][949]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2024.05.14-19.16.38:170][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.05.14-19.16.38:172][ 65]LogStall: Shutdown...
+[2024.05.14-19.16.38:185][ 65]LogStall: Shutdown complete.
+[2024.05.14-19.16.38:260][ 65]LogSlate: Window 'Golden_Island_2 - Unreal Editor' being destroyed
+[2024.05.14-19.16.38:492][ 66]Cmd: QUIT_EDITOR
+[2024.05.14-19.16.38:493][ 66]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.05.14-19.16.38:503][ 66]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.05.14-19.16.38:506][ 66]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.05.14-19.16.38:507][ 66]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.05.14-19.16.38:526][ 66]LogWorld: UWorld::CleanupWorld for BeachTutorial, bSessionEnded=true, bCleanupResources=true
+[2024.05.14-19.16.38:531][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.14-19.16.38:572][ 66]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.05.14-19.16.38:832][ 66]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.05.14-19.16.38:832][ 66]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.05.14-19.16.38:833][ 66]LogAudio: Display: Audio Device unregistered from world 'BeachTutorial'.
+[2024.05.14-19.16.38:837][ 66]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.05.14-19.16.38:859][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.14-19.16.38:863][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.14-19.16.38:930][ 66]LogAudio: Display: Audio Device Manager Shutdown
+[2024.05.14-19.16.38:931][ 66]LogWindowsTextInputMethodSystem: Activated input method: English (Malaysia) - (Keyboard).
+[2024.05.14-19.16.38:944][ 66]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.05.14-19.16.38:944][ 66]LogExit: Preparing to exit.
+[2024.05.14-19.16.39:012][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.05.14-19.16.40:805][ 66]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.05.14-19.16.40:997][ 66]LogExit: Editor shut down
