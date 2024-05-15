@@ -34,7 +34,11 @@
 				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Golden_Island_anim.uasset",
 				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/MainMenu.umap",
 				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Eastern_Village.umap",
-				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Western_Village.umap"
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Western_Village.umap",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/BP_NextLevel.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/WP_FadeTransition.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/sign.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/wood.uasset"
 			]
 		}
 	]

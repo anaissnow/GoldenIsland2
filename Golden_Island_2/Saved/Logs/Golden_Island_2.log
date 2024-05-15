@@ -1631,3 +1631,1290 @@ An asset already exists at the import location: /Game/GameContent/Golden_Island_
 [2024.05.15-10.00.07:699][106]LogContentValidation: Display: Validating /Script/Engine.World /Game/Western_Village.Western_Village
 [2024.05.15-10.07.50:290][792]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.307 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1525 files in 2562 folders with total size 78 MiB.
 [2024.05.15-11.07.50:169][588]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.185 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1525 files in 2562 folders with total size 78 MiB.
+[2024.05.15-12.07.50:158][384]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.173 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1525 files in 2562 folders with total size 78 MiB.
+[2024.05.15-12.19.59:616][571]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.05.15-12.19.59:695][572]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13800
+[2024.05.15-12.20.00:367][573]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{bf6e0386-9c8f-4248-84c9-060f6f39630f}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=434.55
+[2024.05.15-12.20.00:367][573]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.15-12.20.00:370][573]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.15-13.05.07:819][693]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.15-13.07.50:273][181]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.286 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1525 files in 2562 folders with total size 78 MiB.
+[2024.05.15-13.39.01:443][792]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (HONOR Earbuds X5), InstanceID=1
+[2024.05.15-13.39.01:463][792]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13800
+[2024.05.15-13.39.01:800][793]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{9c6a022e-77dc-450a-a972-f00e41377298}, Name=Headphones (HONOR Earbuds X5)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=203.59
+[2024.05.15-13.39.01:800][793]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.15-13.39.01:810][793]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.15-13.40.53:050][464]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/GameContent/Golden_Island_anim.Golden_Island_anim
+[2024.05.15-13.40.55:719][558]LogShaderCompilers: Display: ================================================
+[2024.05.15-13.40.55:719][558]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.15-13.40.55:719][558]LogShaderCompilers: Display: Total job queries 2, among them cache hits 0 (0.00%)
+[2024.05.15-13.40.55:719][558]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display: RAM used: 4.64 KiB of 819.20 MiB budget. Usage: 0.00%
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display: Jobs assigned 2, completed 1 (50.00%)
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display: Time job spent in pending queue: average 0.00 s, longest 0.00 s
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display: Job execution time: average 1.56 s, max 1.56 s
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display: Job life time (pending + execution): average 1.56 s, max 1.56
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display: Shader code size: average 6.074 KiB, min 6.074 KiB, max 6.074 KiB
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.56 s
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display: Average processing rate: 0.64 jobs/sec
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display: Total thread time: 0.643 s
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display: Total thread preprocess time: 0.609 s
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display: Percentage time preprocessing: 94.72%
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display: Effective parallelization: 0.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse (compiled    1 times, average 0.64 sec, max 0.64 sec, min 0.64 sec)
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse - 100.00% of total time (compiled    1 times, average 0.64 sec, max 0.64 sec, min 0.64 sec)
+[2024.05.15-13.40.55:720][558]LogShaderCompilers: Display: ================================================
+[2024.05.15-13.40.58:184][706]LogSlate: Window 'Golden_Island_anim' being destroyed
+[2024.05.15-13.40.58:194][706]LogSlate: Window 'Golden_Island_anim' being destroyed
+[2024.05.15-13.41.05:930][999]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.15-13.41.05:955][999]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.15-13.41.05:965][999]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.15-13.41.06:019][  1]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.15-13.41.11:221][304]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_NextLevel
+[2024.05.15-13.41.11:352][304]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.15-13.41.13:504][423]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
+[2024.05.15-13.41.14:618][423]LogSlate: Window 'Save Content' being destroyed
+[2024.05.15-13.41.14:652][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-13.41.14:847][423]LogSavePackage: Moving output files for package: /Game/GameContent/Transition/BP_NextLevel
+[2024.05.15-13.41.14:847][423]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/BP_NextLevel9713AD05408A3D8A70F2CCB1C9EED6C3.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/BP_NextLevel.uasset'
+[2024.05.15-13.41.14:879][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 227 ms (total: 1.37 sec)
+[2024.05.15-13.41.14:882][423]AssetCheck: New page: Asset Save: BP_NextLevel
+[2024.05.15-13.41.14:882][423]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel
+[2024.05.15-13.41.48:083][669]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel
+[2024.05.15-13.41.48:104][669]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-13.41.48:113][669]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-13.41.48:682][669]LogViewport: Scene viewport resized to 1139x639, mode Windowed.
+[2024.05.15-13.41.53:476][919]LogSlate: Took 0.008133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.15-13.42.11:288][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-13.42.11:404][882]LogSavePackage: Moving output files for package: /Game/GameContent/Transition/BP_NextLevel
+[2024.05.15-13.42.11:405][882]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/BP_NextLevel9C45BA664BCC45431AF36DA702B8EF57.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/BP_NextLevel.uasset'
+[2024.05.15-13.42.11:423][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 1.51 sec)
+[2024.05.15-13.42.11:426][882]AssetCheck: New page: Asset Save: BP_NextLevel
+[2024.05.15-13.42.11:426][882]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel
+[2024.05.15-13.42.38:926][279]LogSlate: Took 0.007576 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.15-13.43.23:356][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.05.15-13.43.23:358][842]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Western_Village' took 0.027
+[2024.05.15-13.43.23:360][842]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameContent/Transition/BP_NextLevel] ([2] browsable assets)...
+[2024.05.15-13.43.23:360][842]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameContent/Transition/BP_NextLevel]
+[2024.05.15-13.43.23:365][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameContent/Transition/BP_NextLevel_Auto1
+[2024.05.15-13.43.23:365][842]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/BP_NextLevel_Auto135ED328C489FC995DC821A9196FF997A.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/Autosaves/Game/GameContent/Transition/BP_NextLevel_Auto1.uasset'
+[2024.05.15-13.43.23:366][842]LogFileHelpers: Auto-saving content packages took 0.009
+[2024.05.15-13.43.47:317][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-13.43.47:435][335]LogSavePackage: Moving output files for package: /Game/GameContent/Transition/BP_NextLevel
+[2024.05.15-13.43.47:436][335]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/BP_NextLevel8436872849F5D05E32D78682747EA177.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/BP_NextLevel.uasset'
+[2024.05.15-13.43.47:454][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 1.64 sec)
+[2024.05.15-13.43.47:457][335]AssetCheck: New page: Asset Save: BP_NextLevel
+[2024.05.15-13.43.47:457][335]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel
+[2024.05.15-13.43.47:945][363]BlueprintLog: New page: Compile BP_NextLevel
+[2024.05.15-13.43.48:001][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.05.15-13.44.01:153][ 89]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel_C
+[2024.05.15-13.44.01:154][ 89]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel_C
+[2024.05.15-13.44.01:160][ 89]LogActorFactory: Actor Factory spawned Blueprint /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel as actor: BP_NextLevel_C /Game/Western_Village.Western_Village:PersistentLevel.BP_NextLevel_C_0
+[2024.05.15-13.44.01:162][ 89]LogActorFactory: Actor Factory spawned Blueprint /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel as actor: BP_NextLevel_C /Game/Western_Village.Western_Village:PersistentLevel.BP_NextLevel_C_0
+[2024.05.15-13.44.02:287][154]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel_C
+[2024.05.15-13.44.02:287][154]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel_C
+[2024.05.15-13.44.02:295][154]LogActorFactory: Actor Factory spawned Blueprint /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel as actor: BP_NextLevel_C /Game/Western_Village.Western_Village:PersistentLevel.BP_NextLevel_C_1
+[2024.05.15-13.44.02:296][154]LogActorFactory: Actor Factory spawned Blueprint /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel as actor: BP_NextLevel_C /Game/Western_Village.Western_Village:PersistentLevel.BP_NextLevel_C_1
+[2024.05.15-13.44.38:473][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-13.44.38:582][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Western_Village" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Western_Village.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.15-13.44.38:631][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.05.15-13.44.38:648][306]LogSavePackage: Moving output files for package: /Game/Western_Village
+[2024.05.15-13.44.38:649][306]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/Western_Village78CBE89A4B3A83673FB6A18E009DD835.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Western_Village.umap'
+[2024.05.15-13.44.38:661][306]LogFileHelpers: Saving map 'Western_Village' took 0.080
+[2024.05.15-13.44.38:677][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms (total: 1.85 sec)
+[2024.05.15-13.44.38:680][306]AssetCheck: New page: Asset Save: Western_Village
+[2024.05.15-13.44.38:680][306]LogContentValidation: Display: Validating /Script/Engine.World /Game/Western_Village.Western_Village
+[2024.05.15-13.44.40:026][384]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.15-13.44.40:047][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.15-13.44.40:056][384]PIE: New page: PIE session: Western_Village (16 May 2024, 5:44:40 am)
+[2024.05.15-13.44.40:091][384]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.05.15-13.44.40:092][384]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.05.15-13.44.40:095][384]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Western_Village
+[2024.05.15-13.44.40:105][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010259s)
+[2024.05.15-13.44.40:105][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Western_Village.Western_Village to /Game/UEDPIE_0_Western_Village.Western_Village (0.010782s)
+[2024.05.15-13.44.40:124][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.15-13.44.40:130][384]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-13.44.40:135][384]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-13.44.40:137][384]LogAIModule: Creating AISystem for world Western_Village
+[2024.05.15-13.44.40:142][384]LogPlayLevel: PIE: World Init took: (0.014547s)
+[2024.05.15-13.44.40:144][384]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.05.15-13.44.40:146][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-13.44.40:146][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-13.44.40:146][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-13.44.40:146][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-13.44.40:146][384]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-13.44.40:146][384]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.15-13.44.40:146][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-13.44.40:146][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-13.44.40:149][384]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-13.44.40:149][384]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-13.44.40:149][384]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-13.44.40:154][384]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-13.44.40:217][384]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HONOR Earbuds X5)
+[2024.05.15-13.44.40:221][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-13.44.40:221][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-13.44.40:222][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-13.44.40:229][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.05.15-13.44.40:229][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.05.15-13.44.40:232][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.05.15-13.44.40:232][384]LogInit: FAudioDevice initialized with ID 2.
+[2024.05.15-13.44.40:232][384]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.05.15-13.44.40:232][384]LogAudio: Display: Audio Device (ID: 2) registered with world 'Western_Village'.
+[2024.05.15-13.44.40:232][384]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.15-13.44.40:257][384]LogLoad: Game class is 'GameModeBase'
+[2024.05.15-13.44.40:260][384]LogWorld: Bringing World /Game/UEDPIE_0_Western_Village.Western_Village up for play (max tick rate 60) at 2024.05.15-21.44.40
+[2024.05.15-13.44.40:261][384]LogWorld: Bringing up level for play took: 0.003947
+[2024.05.15-13.44.40:267][384]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.05.15-13.44.40:318][384]PIE: Server logged in
+[2024.05.15-13.44.40:319][384]PIE: Play in editor total start time 0.279 seconds.
+[2024.05.15-13.44.42:348][388]LogSlate: Took 0.017591 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.15-13.45.00:015][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-13.45.00:017][433]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Western_Village
+[2024.05.15-13.45.00:048][433]LogWorld: UWorld::CleanupWorld for Western_Village, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-13.45.00:057][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-13.45.00:302][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-13.45.00:359][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-13.45.00:441][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-13.45.00:446][433]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.15-13.45.00:448][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.15-13.45.00:451][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.15-13.45.00:508][433]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2024.05.15-13.45.00:837][434]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.05.15-13.45.15:769][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-13.45.15:905][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Western_Village" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Western_Village.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.15-13.45.15:951][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.05.15-13.45.15:978][253]LogSavePackage: Moving output files for package: /Game/Western_Village
+[2024.05.15-13.45.15:980][253]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/Western_VillageF4A9D114410CADF78067748EBB364D73.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Western_Village.umap'
+[2024.05.15-13.45.15:993][253]LogFileHelpers: Saving map 'Western_Village' took 0.093
+[2024.05.15-13.45.16:009][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 238 ms (total: 2.09 sec)
+[2024.05.15-13.45.16:011][253]AssetCheck: New page: Asset Save: Western_Village
+[2024.05.15-13.45.16:011][253]LogContentValidation: Display: Validating /Script/Engine.World /Game/Western_Village.Western_Village
+[2024.05.15-13.45.16:988][307]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.15-13.45.17:003][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.15-13.45.17:009][307]PIE: New page: PIE session: Western_Village (16 May 2024, 5:45:17 am)
+[2024.05.15-13.45.17:047][307]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Western_Village
+[2024.05.15-13.45.17:063][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015538s)
+[2024.05.15-13.45.17:063][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Western_Village.Western_Village to /Game/UEDPIE_0_Western_Village.Western_Village (0.015894s)
+[2024.05.15-13.45.17:079][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.05.15-13.45.17:086][307]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-13.45.17:090][307]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-13.45.17:099][307]LogAIModule: Creating AISystem for world Western_Village
+[2024.05.15-13.45.17:107][307]LogPlayLevel: PIE: World Init took: (0.024666s)
+[2024.05.15-13.45.17:109][307]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.15-13.45.17:109][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-13.45.17:109][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-13.45.17:109][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-13.45.17:109][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-13.45.17:109][307]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-13.45.17:109][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.15-13.45.17:109][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-13.45.17:109][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-13.45.17:112][307]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-13.45.17:112][307]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-13.45.17:112][307]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-13.45.17:115][307]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-13.45.17:172][307]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HONOR Earbuds X5)
+[2024.05.15-13.45.17:174][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-13.45.17:175][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-13.45.17:175][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-13.45.17:180][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.05.15-13.45.17:180][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.05.15-13.45.17:182][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.05.15-13.45.17:182][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.05.15-13.45.17:182][307]LogInit: FAudioDevice initialized with ID 3.
+[2024.05.15-13.45.17:182][307]LogAudio: Display: Audio Device (ID: 3) registered with world 'Western_Village'.
+[2024.05.15-13.45.17:184][307]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.15-13.45.17:192][307]LogLoad: Game class is 'GameModeBase'
+[2024.05.15-13.45.17:198][307]LogWorld: Bringing World /Game/UEDPIE_0_Western_Village.Western_Village up for play (max tick rate 60) at 2024.05.15-21.45.17
+[2024.05.15-13.45.17:199][307]LogWorld: Bringing up level for play took: 0.006934
+[2024.05.15-13.45.17:207][307]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.05.15-13.45.17:225][307]PIE: Server logged in
+[2024.05.15-13.45.17:226][307]PIE: Play in editor total start time 0.224 seconds.
+[2024.05.15-13.45.23:285][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-13.45.23:285][645]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Western_Village
+[2024.05.15-13.45.23:285][645]LogWorld: UWorld::CleanupWorld for Western_Village, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-13.45.23:285][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-13.45.23:291][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-13.45.23:296][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-13.45.23:312][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-13.45.23:312][645]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.15-13.45.23:312][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.15-13.45.23:315][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.15-13.45.23:330][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.05.15-13.45.23:435][646]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.05.15-13.45.47:971][925]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-13.45.48:093][925]LogSavePackage: Moving output files for package: /Game/GameContent/Transition/BP_NextLevel
+[2024.05.15-13.45.48:095][925]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/BP_NextLevelB53FA727454C1FC00A0120BC587D75CA.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/BP_NextLevel.uasset'
+[2024.05.15-13.45.48:113][925]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 2.23 sec)
+[2024.05.15-13.45.48:116][925]AssetCheck: New page: Asset Save: BP_NextLevel
+[2024.05.15-13.45.48:116][925]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel
+[2024.05.15-13.45.48:589][953]BlueprintLog: New page: Compile BP_NextLevel
+[2024.05.15-13.45.48:654][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.15-13.45.52:055][150]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.15-13.45.52:063][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.15-13.45.52:063][150]PIE: New page: PIE session: Western_Village (16 May 2024, 5:45:52 am)
+[2024.05.15-13.45.52:063][150]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Western_Village
+[2024.05.15-13.45.52:064][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001901s)
+[2024.05.15-13.45.52:064][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Western_Village.Western_Village to /Game/UEDPIE_0_Western_Village.Western_Village (0.001939s)
+[2024.05.15-13.45.52:084][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.05.15-13.45.52:086][150]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-13.45.52:086][150]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-13.45.52:086][150]LogAIModule: Creating AISystem for world Western_Village
+[2024.05.15-13.45.52:086][150]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2024.05.15-13.45.52:086][150]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.05.15-13.45.52:087][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-13.45.52:087][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-13.45.52:087][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-13.45.52:087][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-13.45.52:087][150]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-13.45.52:087][150]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.15-13.45.52:087][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-13.45.52:087][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-13.45.52:087][150]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-13.45.52:087][150]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-13.45.52:087][150]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-13.45.52:091][150]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-13.45.52:148][150]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HONOR Earbuds X5)
+[2024.05.15-13.45.52:149][150]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-13.45.52:149][150]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-13.45.52:149][150]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-13.45.52:154][150]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.05.15-13.45.52:154][150]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.05.15-13.45.52:155][150]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.05.15-13.45.52:155][150]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.05.15-13.45.52:155][150]LogInit: FAudioDevice initialized with ID 4.
+[2024.05.15-13.45.52:155][150]LogAudio: Display: Audio Device (ID: 4) registered with world 'Western_Village'.
+[2024.05.15-13.45.52:155][150]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.15-13.45.52:160][150]LogLoad: Game class is 'GameModeBase'
+[2024.05.15-13.45.52:160][150]LogWorld: Bringing World /Game/UEDPIE_0_Western_Village.Western_Village up for play (max tick rate 60) at 2024.05.15-21.45.52
+[2024.05.15-13.45.52:161][150]LogWorld: Bringing up level for play took: 0.000850
+[2024.05.15-13.45.52:164][150]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.05.15-13.45.52:165][150]PIE: Server logged in
+[2024.05.15-13.45.52:166][150]PIE: Play in editor total start time 0.103 seconds.
+[2024.05.15-13.46.04:535][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-13.46.04:535][871]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Western_Village
+[2024.05.15-13.46.04:535][871]LogWorld: UWorld::CleanupWorld for Western_Village, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-13.46.04:535][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-13.46.04:543][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-13.46.04:547][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-13.46.04:562][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-13.46.04:562][871]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.15-13.46.04:562][871]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.15-13.46.04:565][871]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.15-13.46.04:584][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.05.15-13.46.04:972][872]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.05.15-13.46.26:091][ 71]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.15-13.46.33:864][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-13.46.33:969][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Western_Village" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Western_Village.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.15-13.46.34:006][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.05.15-13.46.34:018][531]LogSavePackage: Moving output files for package: /Game/Western_Village
+[2024.05.15-13.46.34:019][531]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/Western_Village24E674D943A119C20FB1CD92A4D8CB3E.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Western_Village.umap'
+[2024.05.15-13.46.34:029][531]LogFileHelpers: Saving map 'Western_Village' took 0.061
+[2024.05.15-13.46.34:042][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 2.41 sec)
+[2024.05.15-13.46.34:046][531]AssetCheck: New page: Asset Save: Western_Village
+[2024.05.15-13.46.34:046][531]LogContentValidation: Display: Validating /Script/Engine.World /Game/Western_Village.Western_Village
+[2024.05.15-13.46.34:775][575]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.15-13.46.34:782][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.15-13.46.34:782][575]PIE: New page: PIE session: Western_Village (16 May 2024, 5:46:34 am)
+[2024.05.15-13.46.34:804][575]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Western_Village
+[2024.05.15-13.46.34:807][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002286s)
+[2024.05.15-13.46.34:807][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Western_Village.Western_Village to /Game/UEDPIE_0_Western_Village.Western_Village (0.002358s)
+[2024.05.15-13.46.34:824][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.05.15-13.46.34:825][575]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-13.46.34:825][575]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-13.46.34:825][575]LogAIModule: Creating AISystem for world Western_Village
+[2024.05.15-13.46.34:825][575]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2024.05.15-13.46.34:825][575]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.05.15-13.46.34:825][575]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-13.46.34:825][575]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-13.46.34:826][575]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-13.46.34:826][575]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-13.46.34:826][575]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-13.46.34:826][575]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.15-13.46.34:826][575]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-13.46.34:826][575]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-13.46.34:826][575]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-13.46.34:826][575]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-13.46.34:826][575]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-13.46.34:829][575]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-13.46.34:885][575]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HONOR Earbuds X5)
+[2024.05.15-13.46.34:885][575]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-13.46.34:885][575]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-13.46.34:885][575]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-13.46.34:887][575]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.05.15-13.46.34:887][575]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.05.15-13.46.34:889][575]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.05.15-13.46.34:889][575]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.05.15-13.46.34:889][575]LogInit: FAudioDevice initialized with ID 5.
+[2024.05.15-13.46.34:889][575]LogAudio: Display: Audio Device (ID: 5) registered with world 'Western_Village'.
+[2024.05.15-13.46.34:889][575]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.15-13.46.34:892][575]LogLoad: Game class is 'GameModeBase'
+[2024.05.15-13.46.34:894][575]LogWorld: Bringing World /Game/UEDPIE_0_Western_Village.Western_Village up for play (max tick rate 60) at 2024.05.15-21.46.34
+[2024.05.15-13.46.34:894][575]LogWorld: Bringing up level for play took: 0.000831
+[2024.05.15-13.46.34:897][575]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.05.15-13.46.34:898][575]PIE: Server logged in
+[2024.05.15-13.46.34:900][575]PIE: Play in editor total start time 0.117 seconds.
+[2024.05.15-13.46.41:905][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-13.46.41:905][979]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Western_Village
+[2024.05.15-13.46.41:905][979]LogWorld: UWorld::CleanupWorld for Western_Village, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-13.46.41:906][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-13.46.41:910][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-13.46.41:914][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-13.46.41:930][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-13.46.41:930][979]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.15-13.46.41:930][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.15-13.46.41:932][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.15-13.46.41:950][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.05.15-13.46.42:061][980]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.05.15-13.46.51:183][485]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.51:184][485]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.51:184][485]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.51:184][485]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.51:187][485]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_1
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.51:187][485]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_1
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.51:187][485]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_1
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.51:187][485]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_1
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.51:188][485]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_2
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.51:188][485]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_2
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.51:188][485]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_2
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.51:188][485]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_2
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.51:188][485]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_3
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.51:188][485]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_3
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.51:188][485]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_3
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.51:188][485]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_3
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.51:188][485]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_4
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.51:188][485]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_4
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.51:188][485]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_4
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.51:188][485]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_4
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.51:188][485]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_5
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.51:188][485]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_5
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.51:188][485]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_5
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.51:188][485]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_5
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.51:189][485]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_6
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.51:189][485]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_6
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.51:189][485]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_6
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.51:189][485]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_6
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.54:163][661]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.54:163][661]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.54:163][661]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.54:163][661]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.54:163][661]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_1
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.54:163][661]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_1
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.54:163][661]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_1
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.54:163][661]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_1
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.54:164][661]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_2
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.54:164][661]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_2
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.54:164][661]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_2
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.54:164][661]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_2
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.54:164][661]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_3
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.54:164][661]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_3
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.54:164][661]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_3
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.54:164][661]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_3
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.54:164][661]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_4
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.54:164][661]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_4
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.54:164][661]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_4
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.54:164][661]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_4
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.54:164][661]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_5
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.54:164][661]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_5
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.54:164][661]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_5
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.54:164][661]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_5
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.54:165][661]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_6
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.54:165][661]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_6
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.54:165][661]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_6
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.54:165][661]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_6
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.54:679][692]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.54:679][692]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.54:679][692]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.54:679][692]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.54:679][692]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_1
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.54:679][692]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_1
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.54:679][692]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_1
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.54:679][692]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_1
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.54:679][692]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_2
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.54:679][692]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_2
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.54:679][692]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_2
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.54:679][692]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_2
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.54:680][692]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_3
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.54:680][692]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_3
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.54:680][692]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_3
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.54:680][692]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_3
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.54:680][692]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_4
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.54:680][692]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_4
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.54:680][692]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_4
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.54:680][692]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_4
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.54:680][692]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_5
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.54:680][692]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_5
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.54:680][692]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_5
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.54:680][692]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_5
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.46.54:680][692]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_6
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:0038
+[2024.05.15-13.46.54:680][692]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_6
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.46.54:680][692]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_6
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.46.54:680][692]LogScript: Warning: Accessed None
+	HotbarSlot_C /Game/Western_Village.Western_Village:W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_6
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.47.24:657][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-13.47.24:781][362]LogSavePackage: Moving output files for package: /Game/GameContent/Transition/BP_NextLevel
+[2024.05.15-13.47.24:782][362]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/BP_NextLevel0EDF09664C56A37FC22E73A50268E25D.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/BP_NextLevel.uasset'
+[2024.05.15-13.47.24:799][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 2.55 sec)
+[2024.05.15-13.47.24:801][362]AssetCheck: New page: Asset Save: BP_NextLevel
+[2024.05.15-13.47.24:802][362]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel
+[2024.05.15-13.47.25:201][386]BlueprintLog: New page: Compile BP_NextLevel
+[2024.05.15-13.47.25:235][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.05.15-13.47.27:864][530]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.15-13.47.27:872][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.15-13.47.27:872][530]PIE: New page: PIE session: Western_Village (16 May 2024, 5:47:27 am)
+[2024.05.15-13.47.27:872][530]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Western_Village
+[2024.05.15-13.47.27:874][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002183s)
+[2024.05.15-13.47.27:874][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Western_Village.Western_Village to /Game/UEDPIE_0_Western_Village.Western_Village (0.002221s)
+[2024.05.15-13.47.27:892][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.05.15-13.47.27:894][530]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-13.47.27:894][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-13.47.27:894][530]LogAIModule: Creating AISystem for world Western_Village
+[2024.05.15-13.47.27:895][530]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2024.05.15-13.47.27:895][530]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.05.15-13.47.27:895][530]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-13.47.27:895][530]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-13.47.27:895][530]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-13.47.27:895][530]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-13.47.27:895][530]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-13.47.27:895][530]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.15-13.47.27:895][530]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-13.47.27:895][530]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-13.47.27:895][530]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-13.47.27:895][530]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-13.47.27:895][530]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-13.47.27:898][530]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-13.47.27:962][530]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HONOR Earbuds X5)
+[2024.05.15-13.47.27:964][530]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-13.47.27:964][530]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-13.47.27:964][530]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-13.47.27:972][530]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.05.15-13.47.27:972][530]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.05.15-13.47.27:974][530]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.05.15-13.47.27:974][530]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.05.15-13.47.27:975][530]LogInit: FAudioDevice initialized with ID 6.
+[2024.05.15-13.47.27:975][530]LogAudio: Display: Audio Device (ID: 6) registered with world 'Western_Village'.
+[2024.05.15-13.47.27:975][530]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.15-13.47.27:978][530]LogLoad: Game class is 'GameModeBase'
+[2024.05.15-13.47.27:979][530]LogWorld: Bringing World /Game/UEDPIE_0_Western_Village.Western_Village up for play (max tick rate 60) at 2024.05.15-21.47.27
+[2024.05.15-13.47.27:979][530]LogWorld: Bringing up level for play took: 0.000867
+[2024.05.15-13.47.27:982][530]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.05.15-13.47.27:984][530]PIE: Server logged in
+[2024.05.15-13.47.27:985][530]PIE: Play in editor total start time 0.113 seconds.
+[2024.05.15-13.47.35:735][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-13.47.35:735][972]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Western_Village
+[2024.05.15-13.47.35:735][972]LogWorld: UWorld::CleanupWorld for Western_Village, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-13.47.35:735][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-13.47.35:742][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-13.47.35:747][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-13.47.35:761][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-13.47.35:761][972]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.15-13.47.35:761][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.15-13.47.35:764][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.15-13.47.35:780][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.05.15-13.47.35:890][973]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.05.15-13.47.42:611][359]Cmd: DELETE
+[2024.05.15-13.47.42:612][359]Cmd: ACTOR DELETE
+[2024.05.15-13.47.42:637][359]LogEditorActor: Deleted Actor: BP_NextLevel_C
+[2024.05.15-13.47.42:651][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.05.15-13.47.42:652][359]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.05.15-13.47.44:203][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-13.47.44:332][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Western_Village" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Western_Village.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.15-13.47.44:380][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.05.15-13.47.44:394][449]LogSavePackage: Moving output files for package: /Game/Western_Village
+[2024.05.15-13.47.44:395][449]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/Western_Village79FD910E4770021A1F33EBB0E771A7AD.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Western_Village.umap'
+[2024.05.15-13.47.44:406][449]LogFileHelpers: Saving map 'Western_Village' took 0.075
+[2024.05.15-13.47.44:422][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 220 ms (total: 2.77 sec)
+[2024.05.15-13.47.44:427][449]AssetCheck: New page: Asset Save: Western_Village
+[2024.05.15-13.47.44:427][449]LogContentValidation: Display: Validating /Script/Engine.World /Game/Western_Village.Western_Village
+[2024.05.15-13.47.48:166][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.05.15-13.47.48:169][627]Cmd: MAP LOAD FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/BeachTutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.15-13.47.48:170][627]LightingResults: New page: Lighting Build
+[2024.05.15-13.47.48:176][627]LoadErrors: New page: Loading map: BeachTutorial.umap
+[2024.05.15-13.47.48:257][627]LogWorld: UWorld::CleanupWorld for Western_Village, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-13.47.48:260][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-13.47.48:261][627]MapCheck: New page: Map Check
+[2024.05.15-13.47.48:262][627]LightingResults: New page: Lighting Build
+[2024.05.15-13.47.48:281][627]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.15-13.47.48:288][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.05.15-13.47.48:309][627]LogAudio: Display: Audio Device (ID: 1) registered with world 'BeachTutorial'.
+[2024.05.15-13.47.48:309][627]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-13.47.48:310][627]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-13.47.48:310][627]LogAIModule: Creating AISystem for world BeachTutorial
+[2024.05.15-13.47.48:481][627]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.15-13.47.48:507][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.15-13.47.48:513][627]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.15-13.47.48:514][627]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.302ms to complete.
+[2024.05.15-13.47.48:514][627]LogSlate: Window 'Open Level' being destroyed
+[2024.05.15-13.48.03:444][492]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel_C
+[2024.05.15-13.48.03:444][492]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel_C
+[2024.05.15-13.48.03:446][492]LogActorFactory: Actor Factory spawned Blueprint /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel as actor: BP_NextLevel_C /Game/BeachTutorial.BeachTutorial:PersistentLevel.BP_NextLevel_C_0
+[2024.05.15-13.48.03:447][492]LogActorFactory: Actor Factory spawned Blueprint /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel as actor: BP_NextLevel_C /Game/BeachTutorial.BeachTutorial:PersistentLevel.BP_NextLevel_C_0
+[2024.05.15-13.48.04:144][532]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel_C
+[2024.05.15-13.48.04:144][532]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel_C
+[2024.05.15-13.48.04:147][532]LogActorFactory: Actor Factory spawned Blueprint /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel as actor: BP_NextLevel_C /Game/BeachTutorial.BeachTutorial:PersistentLevel.BP_NextLevel_C_1
+[2024.05.15-13.48.04:148][532]LogActorFactory: Actor Factory spawned Blueprint /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel as actor: BP_NextLevel_C /Game/BeachTutorial.BeachTutorial:PersistentLevel.BP_NextLevel_C_1
+[2024.05.15-13.48.20:545][490]LogPhysics: Warning: Scale for /Game/BeachTutorial.BeachTutorial:PersistentLevel.BP_NextLevel_C_1.Trigger has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.05.15-13.48.20:545][490]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_NextLevel' Component: '/Game/BeachTutorial.BeachTutorial:PersistentLevel.BP_NextLevel_C_1.Trigger' 
+[2024.05.15-13.48.20:778][504]LogPhysics: Warning: Scale for /Game/BeachTutorial.BeachTutorial:PersistentLevel.BP_NextLevel_C_1.Trigger has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.05.15-13.48.20:778][504]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_NextLevel' Component: '/Game/BeachTutorial.BeachTutorial:PersistentLevel.BP_NextLevel_C_1.Trigger' 
+[2024.05.15-13.48.38:143][520]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.15-13.48.38:150][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.15-13.48.38:150][520]PIE: New page: PIE session: BeachTutorial (16 May 2024, 5:48:38 am)
+[2024.05.15-13.48.38:174][520]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BeachTutorial
+[2024.05.15-13.48.38:179][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004901s)
+[2024.05.15-13.48.38:179][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BeachTutorial.BeachTutorial to /Game/UEDPIE_0_BeachTutorial.BeachTutorial (0.004978s)
+[2024.05.15-13.48.38:196][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.15-13.48.38:198][520]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-13.48.38:198][520]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-13.48.38:199][520]LogAIModule: Creating AISystem for world BeachTutorial
+[2024.05.15-13.48.38:199][520]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2024.05.15-13.48.38:199][520]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.05.15-13.48.38:199][520]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-13.48.38:199][520]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-13.48.38:199][520]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-13.48.38:199][520]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-13.48.38:199][520]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-13.48.38:199][520]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.15-13.48.38:199][520]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-13.48.38:199][520]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-13.48.38:199][520]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-13.48.38:199][520]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-13.48.38:199][520]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-13.48.38:202][520]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-13.48.38:260][520]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HONOR Earbuds X5)
+[2024.05.15-13.48.38:260][520]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-13.48.38:260][520]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-13.48.38:260][520]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-13.48.38:262][520]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.05.15-13.48.38:262][520]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.05.15-13.48.38:264][520]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.05.15-13.48.38:264][520]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.05.15-13.48.38:264][520]LogInit: FAudioDevice initialized with ID 7.
+[2024.05.15-13.48.38:264][520]LogAudio: Display: Audio Device (ID: 7) registered with world 'BeachTutorial'.
+[2024.05.15-13.48.38:264][520]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.15-13.48.38:267][520]LogLoad: Game class is 'GM_GamemodeTest_C'
+[2024.05.15-13.48.38:270][520]LogWorld: Bringing World /Game/UEDPIE_0_BeachTutorial.BeachTutorial up for play (max tick rate 60) at 2024.05.15-21.48.38
+[2024.05.15-13.48.38:270][520]LogWorld: Bringing up level for play took: 0.002260
+[2024.05.15-13.48.38:272][520]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.05.15-13.48.38:293][520]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.48.38:296][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:296][520]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.48.38:296][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:296][520]LogScript: Warning: Accessed None
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.48.38:296][520]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:296][520]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_1
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.48.38:296][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:296][520]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_1
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.48.38:296][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:296][520]LogScript: Warning: Accessed None
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_1
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.48.38:296][520]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:296][520]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_2
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.48.38:297][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:297][520]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_2
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.48.38:297][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:297][520]LogScript: Warning: Accessed None
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_2
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.48.38:297][520]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:297][520]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_3
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.48.38:297][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:297][520]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_3
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.48.38:297][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:297][520]LogScript: Warning: Accessed None
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_3
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.48.38:297][520]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:297][520]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_4
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.48.38:297][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:297][520]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_4
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.48.38:297][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:297][520]LogScript: Warning: Accessed None
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_4
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.48.38:297][520]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:297][520]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_5
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.48.38:297][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:297][520]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_5
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.48.38:297][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:297][520]LogScript: Warning: Accessed None
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_5
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.48.38:297][520]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:298][520]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_6
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.48.38:298][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:298][520]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_6
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00E1
+[2024.05.15-13.48.38:298][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:298][520]LogScript: Warning: Accessed None
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_6
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:00C2
+[2024.05.15-13.48.38:298][520]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.48.38:300][520]PIE: Server logged in
+[2024.05.15-13.48.38:301][520]PIE: Play in editor total start time 0.15 seconds.
+[2024.05.15-13.48.38:306][520]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.48.42:774][756]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.48.47:680][ 50]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.48.48:080][ 74]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.48.51:895][303]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.48.52:064][313]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.48.52:664][349]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.48.57:064][613]LogBlueprintUserMessages: [BP_NextLevel_C_1] Hello
+[2024.05.15-13.49.00:051][792]LogBlueprintUserMessages: [BP_NextLevel_C_1] Hello
+[2024.05.15-13.49.00:651][828]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.49.02:720][952]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.49.03:435][995]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.49.03:550][  2]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.49.03:934][ 25]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.49.07:136][217]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.49.07:619][246]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.49.10:203][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-13.49.10:203][399]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BeachTutorial
+[2024.05.15-13.49.10:204][399]LogWorld: UWorld::CleanupWorld for BeachTutorial, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-13.49.10:205][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-13.49.10:209][399]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-13.49.10:215][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-13.49.10:229][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-13.49.10:229][399]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.15-13.49.10:229][399]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.15-13.49.10:231][399]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.15-13.49.10:250][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.05.15-13.49.10:796][400]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.05.15-13.49.18:481][822]LogSlate: Window 'Message Log' being destroyed
+[2024.05.15-13.49.18:491][822]LogSlate: Window 'Message Log' being destroyed
+[2024.05.15-13.49.33:564][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.05.15-13.49.35:338][694]LogSlate: Window 'Save Content' being destroyed
+[2024.05.15-13.49.35:360][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-13.49.35:528][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BeachTutorial" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/BeachTutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.15-13.49.35:585][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.05.15-13.49.35:615][694]LogSavePackage: Moving output files for package: /Game/BeachTutorial
+[2024.05.15-13.49.35:617][694]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/BeachTutorialF1A23CA84D154FEA3CBFD1A178D052CB.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/BeachTutorial.umap'
+[2024.05.15-13.49.35:633][694]LogFileHelpers: Saving map 'BeachTutorial' took 0.106
+[2024.05.15-13.49.35:653][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 293 ms (total: 3.06 sec)
+[2024.05.15-13.49.35:658][694]AssetCheck: New page: Asset Save: BeachTutorial
+[2024.05.15-13.49.35:658][694]LogContentValidation: Display: Validating /Script/Engine.World /Game/BeachTutorial.BeachTutorial
+[2024.05.15-13.50.04:304][843]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue
+[2024.05.15-13.50.49:643][460]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-13.50.49:755][460]LogSavePackage: Moving output files for package: /Game/GameContent/SFX/rustling-leaves-6875_Cue
+[2024.05.15-13.50.49:755][460]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/rustling-leaves-6875_Cue7B43459A43EB63CB989C31BA456F6313.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/rustling-leaves-6875_Cue.uasset'
+[2024.05.15-13.50.49:770][460]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 3.19 sec)
+[2024.05.15-13.50.49:776][460]AssetCheck: New page: Asset Save: rustling-leaves-6875_Cue
+[2024.05.15-13.50.49:776][460]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue
+[2024.05.15-13.50.51:575][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-13.50.51:690][563]LogSavePackage: Moving output files for package: /Game/GameContent/SFX/rustling-leaves-6875_Cue
+[2024.05.15-13.50.51:691][563]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/rustling-leaves-6875_CueF839D4444CCF5837019BEDAD8B979C51.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/rustling-leaves-6875_Cue.uasset'
+[2024.05.15-13.50.51:705][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 3.32 sec)
+[2024.05.15-13.50.51:708][563]AssetCheck: New page: Asset Save: rustling-leaves-6875_Cue
+[2024.05.15-13.50.51:708][563]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue
+[2024.05.15-13.50.57:090][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-13.50.57:201][873]LogSavePackage: Moving output files for package: /Game/GameContent/SFX/rustling-leaves-6875_Cue
+[2024.05.15-13.50.57:202][873]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/rustling-leaves-6875_CueD4E8FBCE4CCA737D9489BBAB461BB325.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/rustling-leaves-6875_Cue.uasset'
+[2024.05.15-13.50.57:215][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 3.45 sec)
+[2024.05.15-13.50.57:218][873]AssetCheck: New page: Asset Save: rustling-leaves-6875_Cue
+[2024.05.15-13.50.57:218][873]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue
+[2024.05.15-13.51.02:257][161]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.15-13.51.02:273][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.15-13.51.02:273][161]PIE: New page: PIE session: BeachTutorial (16 May 2024, 5:51:02 am)
+[2024.05.15-13.51.02:273][161]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BeachTutorial
+[2024.05.15-13.51.02:277][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003837s)
+[2024.05.15-13.51.02:277][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BeachTutorial.BeachTutorial to /Game/UEDPIE_0_BeachTutorial.BeachTutorial (0.003877s)
+[2024.05.15-13.51.02:295][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.05.15-13.51.02:297][161]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-13.51.02:297][161]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-13.51.02:298][161]LogAIModule: Creating AISystem for world BeachTutorial
+[2024.05.15-13.51.02:298][161]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2024.05.15-13.51.02:298][161]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.05.15-13.51.02:298][161]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-13.51.02:298][161]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-13.51.02:298][161]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-13.51.02:298][161]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-13.51.02:298][161]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-13.51.02:298][161]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.15-13.51.02:298][161]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-13.51.02:298][161]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-13.51.02:299][161]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-13.51.02:299][161]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-13.51.02:299][161]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-13.51.02:301][161]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-13.51.02:358][161]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HONOR Earbuds X5)
+[2024.05.15-13.51.02:359][161]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-13.51.02:359][161]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-13.51.02:359][161]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-13.51.02:360][161]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.05.15-13.51.02:360][161]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.05.15-13.51.02:363][161]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.05.15-13.51.02:363][161]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.05.15-13.51.02:363][161]LogInit: FAudioDevice initialized with ID 8.
+[2024.05.15-13.51.02:363][161]LogAudio: Display: Audio Device (ID: 8) registered with world 'BeachTutorial'.
+[2024.05.15-13.51.02:363][161]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.15-13.51.02:366][161]LogLoad: Game class is 'GM_GamemodeTest_C'
+[2024.05.15-13.51.02:368][161]LogWorld: Bringing World /Game/UEDPIE_0_BeachTutorial.BeachTutorial up for play (max tick rate 60) at 2024.05.15-21.51.02
+[2024.05.15-13.51.02:368][161]LogWorld: Bringing up level for play took: 0.002070
+[2024.05.15-13.51.02:371][161]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.05.15-13.51.02:375][161]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.51.02:375][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:375][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:375][161]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:375][161]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_1
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.51.02:375][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:375][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:375][161]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:375][161]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_2
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.51.02:375][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:375][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:375][161]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:375][161]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_3
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.51.02:375][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:375][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:375][161]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:375][161]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_4
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.51.02:375][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:376][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:376][161]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:376][161]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_5
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.51.02:376][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:376][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:376][161]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:376][161]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	HotbarSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.W_PlayerHUD_C_0.WidgetTree_0.Hotbar.WidgetTree_0.HotbarSlot_6
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/HotbarSlot.HotbarSlot_C:ExecuteUbergraph_HotbarSlot:008F
+[2024.05.15-13.51.02:376][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:376][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:376][161]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-13.51.02:376][161]PIE: Server logged in
+[2024.05.15-13.51.02:377][161]PIE: Play in editor total start time 0.105 seconds.
+[2024.05.15-13.51.02:379][161]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.51.13:893][796]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.51.17:183][993]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.51.17:549][ 15]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.51.18:365][ 64]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.51.19:283][119]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.51.20:398][186]LogBlueprintUserMessages: [BP_NextLevel_C_1] Hello
+[2024.05.15-13.51.21:582][257]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.51.22:116][289]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.51.24:232][416]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.51.25:048][465]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-13.51.28:576][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-13.51.28:576][675]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BeachTutorial
+[2024.05.15-13.51.28:576][675]LogWorld: UWorld::CleanupWorld for BeachTutorial, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-13.51.28:576][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-13.51.28:580][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-13.51.28:584][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-13.51.28:596][675]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.15-13.51.28:596][675]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.15-13.51.28:596][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.15-13.51.28:599][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.15-13.51.28:613][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-13.51.28:615][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.05.15-13.51.28:986][676]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.05.15-13.51.30:604][710]LogSlate: Window 'Message Log' being destroyed
+[2024.05.15-13.51.30:630][710]LogSlate: Window 'Message Log' being destroyed
+[2024.05.15-13.51.32:141][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-13.51.32:255][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BeachTutorial" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/BeachTutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.15-13.51.32:295][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.05.15-13.51.32:313][800]LogSavePackage: Moving output files for package: /Game/BeachTutorial
+[2024.05.15-13.51.32:314][800]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/BeachTutorial23B307D64767C4645780ABAD9129C4CC.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/BeachTutorial.umap'
+[2024.05.15-13.51.32:324][800]LogFileHelpers: Saving map 'BeachTutorial' took 0.068
+[2024.05.15-13.51.32:340][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 3.64 sec)
+[2024.05.15-13.51.32:344][800]AssetCheck: New page: Asset Save: BeachTutorial
+[2024.05.15-13.51.32:344][800]LogContentValidation: Display: Validating /Script/Engine.World /Game/BeachTutorial.BeachTutorial
+[2024.05.15-13.54.15:384][846]LogSlate: Window 'Open Level' being destroyed
+[2024.05.15-13.54.26:875][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-13.54.26:992][508]LogSavePackage: Moving output files for package: /Game/GameContent/Transition/BP_NextLevel
+[2024.05.15-13.54.26:993][508]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/BP_NextLevelC95AC26B45D13F1AD40530922331E00B.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/BP_NextLevel.uasset'
+[2024.05.15-13.54.27:008][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 3.78 sec)
+[2024.05.15-13.54.27:009][508]AssetCheck: New page: Asset Save: BP_NextLevel
+[2024.05.15-13.54.27:009][508]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel
+[2024.05.15-13.54.28:500][596]BlueprintLog: New page: Compile BP_NextLevel
+[2024.05.15-13.54.28:531][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.05.15-14.07.50:483][318]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.496 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1527 files in 2564 folders with total size 78 MiB.
+[2024.05.15-14.12.48:852][174]LogSlate: Took 0.008241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.15-14.13.19:888][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-14.13.20:018][428]LogSavePackage: Moving output files for package: /Game/GameContent/Transition/BP_NextLevel
+[2024.05.15-14.13.20:019][428]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/BP_NextLevelB1EABA4D498E3226B2DB1F8A5A04B2A8.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/BP_NextLevel.uasset'
+[2024.05.15-14.13.20:044][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 3.93 sec)
+[2024.05.15-14.13.20:046][428]AssetCheck: New page: Asset Save: BP_NextLevel
+[2024.05.15-14.13.20:046][428]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel
+[2024.05.15-14.13.20:666][461]BlueprintLog: New page: Compile BP_NextLevel
+[2024.05.15-14.13.20:698][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.05.15-14.13.39:089][261]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.15-14.13.40:945][308]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.05.15-14.13.47:058][513]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.05.15-14.13.47:084][513]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.05.15-14.13.47:096][513]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.05.15-14.13.47:121][514]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.05.15-14.14.58:697][803]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WP_FadeTransition
+[2024.05.15-14.14.58:741][803]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.05.15-14.15.00:940][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.05.15-14.15.02:220][933]LogSlate: Window 'Save Content' being destroyed
+[2024.05.15-14.15.02:239][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-14.15.02:382][933]LogSavePackage: Moving output files for package: /Game/GameContent/Transition/WP_FadeTransition
+[2024.05.15-14.15.02:384][933]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/WP_FadeTransition3EABE14C4379208EBA7EC690A9D56DF9.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/WP_FadeTransition.uasset'
+[2024.05.15-14.15.02:406][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 4.10 sec)
+[2024.05.15-14.15.02:408][933]AssetCheck: New page: Asset Save: WP_FadeTransition
+[2024.05.15-14.15.02:408][933]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/GameContent/Transition/WP_FadeTransition.WP_FadeTransition
+[2024.05.15-14.15.29:079][398]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GameContent/Transition/WP_FadeTransition.WP_FadeTransition
+[2024.05.15-14.15.29:083][398]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-14.15.29:083][398]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-14.15.29:091][398]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-14.15.29:091][398]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-14.15.29:105][398]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.05.15-14.15.29:567][398]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.05.15-14.15.29:576][398]LogSlate: Took 0.008084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.15-14.16.22:182][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.05.15-14.16.22:186][140]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BeachTutorial' took 0.025
+[2024.05.15-14.16.22:186][140]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GameContent/Transition/WP_FadeTransition] ([2] browsable assets)...
+[2024.05.15-14.16.22:191][140]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GameContent/Transition/WP_FadeTransition.WP_FadeTransition]
+[2024.05.15-14.16.22:191][140]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameContent/Transition/WP_FadeTransition]
+[2024.05.15-14.16.22:196][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameContent/Transition/WP_FadeTransition_Auto2
+[2024.05.15-14.16.22:196][140]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/WP_FadeTransition_Auto2EA8B2EBD4427AFE88D3758955CBF354E.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/Autosaves/Game/GameContent/Transition/WP_FadeTransition_Auto2.uasset'
+[2024.05.15-14.16.22:197][140]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.05.15-14.16.44:164][938]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.15-14.17.30:591][508]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.15-14.17.39:239][965]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.15-14.17.48:654][467]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.15-14.17.53:418][716]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.15-14.18.01:953][166]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.15-14.18.08:249][505]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.15-14.18.15:684][898]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.15-14.18.19:829][114]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.15-14.18.53:558][924]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.15-14.19.06:274][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-14.19.06:383][638]LogSavePackage: Moving output files for package: /Game/GameContent/Transition/WP_FadeTransition
+[2024.05.15-14.19.06:384][638]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/WP_FadeTransition42011F2542A1B1D6D54523BEDDF2E115.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/WP_FadeTransition.uasset'
+[2024.05.15-14.19.06:402][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 4.23 sec)
+[2024.05.15-14.19.06:405][638]AssetCheck: New page: Asset Save: WP_FadeTransition
+[2024.05.15-14.19.06:405][638]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/GameContent/Transition/WP_FadeTransition.WP_FadeTransition
+[2024.05.15-14.19.06:889][661]BlueprintLog: New page: Compile WP_FadeTransition
+[2024.05.15-14.19.06:926][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.05.15-14.21.57:062][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-14.21.57:194][823]LogSavePackage: Moving output files for package: /Game/GameContent/Transition/WP_FadeTransition
+[2024.05.15-14.21.57:196][823]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/WP_FadeTransition6CAA3B4F4EC8B539CD8D579F8B7A989C.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/WP_FadeTransition.uasset'
+[2024.05.15-14.21.57:217][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 4.38 sec)
+[2024.05.15-14.21.57:220][823]AssetCheck: New page: Asset Save: WP_FadeTransition
+[2024.05.15-14.21.57:220][823]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/GameContent/Transition/WP_FadeTransition.WP_FadeTransition
+[2024.05.15-14.21.57:802][857]BlueprintLog: New page: Compile WP_FadeTransition
+[2024.05.15-14.21.57:830][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.05.15-14.24.15:650][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-14.24.15:794][329]LogSavePackage: Moving output files for package: /Game/GameContent/Transition/BP_NextLevel
+[2024.05.15-14.24.15:795][329]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/BP_NextLevelEF5B1C1D45DF6545E05CCEBEBE79338D.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/BP_NextLevel.uasset'
+[2024.05.15-14.24.15:812][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 4.55 sec)
+[2024.05.15-14.24.15:816][329]AssetCheck: New page: Asset Save: BP_NextLevel
+[2024.05.15-14.24.15:816][329]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameContent/Transition/BP_NextLevel.BP_NextLevel
+[2024.05.15-14.24.16:480][368]BlueprintLog: New page: Compile BP_NextLevel
+[2024.05.15-14.24.16:514][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.05.15-14.24.26:379][675]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.15-14.24.26:388][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.15-14.24.26:388][675]PIE: New page: PIE session: BeachTutorial (16 May 2024, 6:24:26 am)
+[2024.05.15-14.24.26:388][675]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BeachTutorial
+[2024.05.15-14.24.26:392][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004472s)
+[2024.05.15-14.24.26:392][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BeachTutorial.BeachTutorial to /Game/UEDPIE_0_BeachTutorial.BeachTutorial (0.004520s)
+[2024.05.15-14.24.26:414][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.05.15-14.24.26:420][675]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-14.24.26:421][675]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-14.24.26:422][675]LogAIModule: Creating AISystem for world BeachTutorial
+[2024.05.15-14.24.26:422][675]LogPlayLevel: PIE: World Init took: (0.001850s)
+[2024.05.15-14.24.26:422][675]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.05.15-14.24.26:422][675]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-14.24.26:422][675]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-14.24.26:422][675]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-14.24.26:422][675]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-14.24.26:422][675]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-14.24.26:422][675]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.15-14.24.26:422][675]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-14.24.26:422][675]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-14.24.26:422][675]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-14.24.26:422][675]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-14.24.26:422][675]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-14.24.26:425][675]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-14.24.26:486][675]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HONOR Earbuds X5)
+[2024.05.15-14.24.26:486][675]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-14.24.26:486][675]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-14.24.26:486][675]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-14.24.26:488][675]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.05.15-14.24.26:488][675]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.05.15-14.24.26:490][675]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.05.15-14.24.26:490][675]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.05.15-14.24.26:490][675]LogInit: FAudioDevice initialized with ID 9.
+[2024.05.15-14.24.26:490][675]LogAudio: Display: Audio Device (ID: 9) registered with world 'BeachTutorial'.
+[2024.05.15-14.24.26:490][675]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.05.15-14.24.26:494][675]LogLoad: Game class is 'GM_GamemodeTest_C'
+[2024.05.15-14.24.26:497][675]LogWorld: Bringing World /Game/UEDPIE_0_BeachTutorial.BeachTutorial up for play (max tick rate 60) at 2024.05.15-22.24.26
+[2024.05.15-14.24.26:497][675]LogWorld: Bringing up level for play took: 0.002540
+[2024.05.15-14.24.26:500][675]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.05.15-14.24.26:504][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:504][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:504][675]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:504][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:504][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:504][675]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:504][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:505][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:505][675]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:505][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:505][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:505][675]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:505][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:505][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:505][675]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:505][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:505][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:505][675]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:505][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Bind Event to On Inventory Updated Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:505][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryComponent". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:505][675]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Hotbar Slot Blueprint:  HotbarSlot
+[2024.05.15-14.24.26:505][675]PIE: Server logged in
+[2024.05.15-14.24.26:506][675]PIE: Play in editor total start time 0.119 seconds.
+[2024.05.15-14.24.26:508][675]LogBlueprintUserMessages: [InventorySystem] 
+[2024.05.15-14.24.35:869][167]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'rustling-leaves-6875_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.05.15-14.24.36:366][197]LogNet: Browse: /Game/Eastern_Village
+[2024.05.15-14.24.36:367][197]LogLoad: LoadMap: /Game/Eastern_Village
+[2024.05.15-14.24.36:367][197]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BeachTutorial
+[2024.05.15-14.24.36:369][197]LogWorld: UWorld::CleanupWorld for BeachTutorial, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-14.24.36:370][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-14.24.36:419][197]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.15-14.24.36:422][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.05.15-14.24.36:436][197]LogAudio: Display: Audio Device (ID: 9) registered with world 'Eastern_Village'.
+[2024.05.15-14.24.36:436][197]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-14.24.36:437][197]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-14.24.36:437][197]LogAIModule: Creating AISystem for world Eastern_Village
+[2024.05.15-14.24.36:437][197]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2024.05.15-14.24.36:437][197]LogLoad: Game class is 'GameModeBase'
+[2024.05.15-14.24.36:439][197]LogWorld: Bringing World /Game/UEDPIE_0_Eastern_Village.Eastern_Village up for play (max tick rate 60) at 2024.05.15-22.24.36
+[2024.05.15-14.24.36:439][197]LogWorld: Bringing up level for play took: 0.001393
+[2024.05.15-14.24.36:441][197]LogLoad: Took 0.073621 seconds to LoadMap(/Game/Eastern_Village)
+[2024.05.15-14.24.41:085][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-14.24.41:085][472]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Eastern_Village
+[2024.05.15-14.24.41:086][472]LogWorld: UWorld::CleanupWorld for Eastern_Village, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-14.24.41:086][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-14.24.41:089][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-14.24.41:095][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-14.24.41:109][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-14.24.41:109][472]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.05.15-14.24.41:109][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.15-14.24.41:111][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.15-14.24.41:127][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.05.15-14.24.41:481][473]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.05.15-14.24.55:093][182]LogSlate: Window 'Message Log' being destroyed
+[2024.05.15-14.24.55:107][182]LogSlate: Window 'Message Log' being destroyed
+[2024.05.15-14.24.56:768][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-14.24.56:874][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BeachTutorial" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/BeachTutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.15-14.24.56:916][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.05.15-14.24.56:935][281]LogSavePackage: Moving output files for package: /Game/BeachTutorial
+[2024.05.15-14.24.56:936][281]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/BeachTutorial7291A6BD4F4FD63FAE11EC9575FD47EA.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/BeachTutorial.umap'
+[2024.05.15-14.24.56:949][281]LogFileHelpers: Saving map 'BeachTutorial' took 0.075
+[2024.05.15-14.24.56:966][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 197 ms (total: 4.74 sec)
+[2024.05.15-14.24.56:969][281]AssetCheck: New page: Asset Save: BeachTutorial
+[2024.05.15-14.24.56:969][281]LogContentValidation: Display: Validating /Script/Engine.World /Game/BeachTutorial.BeachTutorial
+[2024.05.15-14.26.33:215][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-14.26.33:335][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BeachTutorial" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/BeachTutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.15-14.26.33:388][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.05.15-14.26.33:412][258]LogSavePackage: Moving output files for package: /Game/BeachTutorial
+[2024.05.15-14.26.33:414][258]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/BeachTutorial188EB0CF41FAEB5CE5EFAEA6E13AA147.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/BeachTutorial.umap'
+[2024.05.15-14.26.33:425][258]LogFileHelpers: Saving map 'BeachTutorial' took 0.090
+[2024.05.15-14.26.33:442][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 228 ms (total: 4.97 sec)
+[2024.05.15-14.26.33:449][258]AssetCheck: New page: Asset Save: BeachTutorial
+[2024.05.15-14.26.33:449][258]LogContentValidation: Display: Validating /Script/Engine.World /Game/BeachTutorial.BeachTutorial
+[2024.05.15-14.50.34:470][630]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.05.15-14.50.34:685][630]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13800
+[2024.05.15-14.50.35:024][631]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{bf6e0386-9c8f-4248-84c9-060f6f39630f}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=292.58
+[2024.05.15-14.50.35:024][631]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.15-14.50.35:026][631]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.15-15.07.50:221][735]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.233 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1527 files in 2564 folders with total size 78 MiB.
+[2024.05.15-15.21.09:784][935]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Blender/Exports/Golden Island assets/sign.fbx)
+[2024.05.15-15.21.09:819][935]LogFbx: Loading FBX Scene from ../../../../Blender/Exports/Golden Island assets/sign.fbx
+[2024.05.15-15.21.09:826][935]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.15-15.21.11:374][935]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.15-15.21.11:853][935]LogFbx: Display: Triangulating static mesh signboard
+[2024.05.15-15.21.11:874][935]LogStaticMesh: Display: Building static mesh sign...
+[2024.05.15-15.21.11:890][935]LogStaticMesh: Built static mesh [0.02s] /Game/GameContent/sign.sign
+[2024.05.15-15.21.12:131][935]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.05.15-15.21.13:722][966]LogShaderCompilers: Display: ================================================
+[2024.05.15-15.21.13:722][966]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.15-15.21.13:722][966]LogShaderCompilers: Display: Total job queries 6, among them cache hits 0 (0.00%)
+[2024.05.15-15.21.13:722][966]LogShaderCompilers: Display: Tracking 3 distinct input hashes that result in 3 distinct outputs (100.00%)
+[2024.05.15-15.21.13:722][966]LogShaderCompilers: Display: RAM used: 26.71 KiB of 819.20 MiB budget. Usage: 0.00%
+[2024.05.15-15.21.13:722][966]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.15-15.21.13:722][966]LogShaderCompilers: Display: Shaders Compiled: 3
+[2024.05.15-15.21.13:722][966]LogShaderCompilers: Display: Jobs assigned 6, completed 3 (50.00%)
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display: Average time worker was idle: 6017.08 s
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.12 s
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display: Job execution time: average 1.32 s, max 1.67 s
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display: Job life time (pending + execution): average 1.36 s, max 1.67
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display: Shader code size: average 14.158 KiB, min 6.074 KiB, max 29.711 KiB
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.52 s
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display: Average processing rate: 1.19 jobs/sec
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display: Total thread time: 1.748 s
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display: Total thread preprocess time: 1.45 s
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display: Percentage time preprocessing: 82.94%
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display: Effective parallelization: 0.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse (compiled    1 times, average 0.64 sec, max 0.64 sec, min 0.64 sec)
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault - 41.79% of total time (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse - 36.78% of total time (compiled    1 times, average 0.64 sec, max 0.64 sec, min 0.64 sec)
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 21.42% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2024.05.15-15.21.13:723][966]LogShaderCompilers: Display: ================================================
+[2024.05.15-15.21.15:982][ 74]LogUObjectHash: Compacting FUObjectHashTables data took  10.14ms
+[2024.05.15-15.21.15:987][ 74]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BeachTutorial' took 0.102
+[2024.05.15-15.21.15:988][ 74]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameContent/sign] ([1] browsable assets)...
+[2024.05.15-15.21.16:042][ 74]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GameContent/sign.sign]
+[2024.05.15-15.21.16:042][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameContent/sign]
+[2024.05.15-15.21.16:057][ 74]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameContent/sign_Auto3
+[2024.05.15-15.21.16:057][ 74]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/sign_Auto31B2493B549F951F599F241AF938CEEAE.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/Autosaves/Game/GameContent/sign_Auto3.uasset'
+[2024.05.15-15.21.16:059][ 74]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameContent/wood] ([1] browsable assets)...
+[2024.05.15-15.21.17:099][ 74]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GameContent/wood.wood]
+[2024.05.15-15.21.17:099][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameContent/wood]
+[2024.05.15-15.21.17:106][ 74]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameContent/wood_Auto3
+[2024.05.15-15.21.17:106][ 74]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/wood_Auto356AC2BF74D8749FDC71BE5BCBA92B821.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/Autosaves/Game/GameContent/wood_Auto3.uasset'
+[2024.05.15-15.21.17:108][ 74]LogFileHelpers: Auto-saving content packages took 1.121
+[2024.05.15-15.21.22:592][388]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.15-15.21.22:605][388]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.15-15.21.24:721][510]LogSlate: Window 'Message Log' being destroyed
+[2024.05.15-15.21.24:736][510]LogSlate: Window 'Message Log' being destroyed
+[2024.05.15-15.21.26:975][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.05.15-15.21.28:358][639]LogSlate: Window 'Save Content' being destroyed
+[2024.05.15-15.21.28:379][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-15.21.28:517][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/sign" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/sign.uasset" SILENT=true
+[2024.05.15-15.21.28:520][639]LogSavePackage: Moving output files for package: /Game/GameContent/sign
+[2024.05.15-15.21.28:520][639]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/sign3D6C2CFB4227C839D400A485F7480FAC.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/sign.uasset'
+[2024.05.15-15.21.28:526][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/wood" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/wood.uasset" SILENT=true
+[2024.05.15-15.21.28:528][639]LogSavePackage: Moving output files for package: /Game/GameContent/wood
+[2024.05.15-15.21.28:528][639]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/woodDBACD1734357575643C0DBA769C4F7CA.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/wood.uasset'
+[2024.05.15-15.21.28:553][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 5.15 sec)
+[2024.05.15-15.21.28:557][639]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.15-15.21.28:557][639]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/GameContent/sign.sign
+[2024.05.15-15.21.28:557][639]LogContentValidation: Display: Validating /Script/Engine.Material /Game/GameContent/wood.wood
+[2024.05.15-15.21.30:988][751]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/sign.sign
+[2024.05.15-15.21.30:989][751]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/sign.sign
+[2024.05.15-15.21.30:992][751]LogActorFactory: Actor Factory spawned StaticMesh /Game/GameContent/sign.sign as actor: StaticMeshActor /Game/BeachTutorial.BeachTutorial:PersistentLevel.StaticMeshActor_0
+[2024.05.15-15.21.32:489][838]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/sign.sign
+[2024.05.15-15.21.32:489][838]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/sign.sign
+[2024.05.15-15.21.32:493][838]LogActorFactory: Actor Factory spawned StaticMesh /Game/GameContent/sign.sign as actor: StaticMeshActor /Game/BeachTutorial.BeachTutorial:PersistentLevel.StaticMeshActor_3
+[2024.05.15-15.21.34:699][962]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.15-15.22.15:059][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-15.22.15:172][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BeachTutorial" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/BeachTutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.15-15.22.15:217][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.05.15-15.22.15:243][324]LogSavePackage: Moving output files for package: /Game/BeachTutorial
+[2024.05.15-15.22.15:244][324]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/BeachTutorial60E3FB5F41523096D432359E960A4466.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/BeachTutorial.umap'
+[2024.05.15-15.22.15:253][324]LogFileHelpers: Saving map 'BeachTutorial' took 0.082
+[2024.05.15-15.22.15:272][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 214 ms (total: 5.36 sec)
+[2024.05.15-15.22.15:276][324]AssetCheck: New page: Asset Save: BeachTutorial
+[2024.05.15-15.22.15:276][324]LogContentValidation: Display: Validating /Script/Engine.World /Game/BeachTutorial.BeachTutorial
