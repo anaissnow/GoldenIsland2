@@ -1440,3 +1440,194 @@ Make sure 'BP_Transition_WesternVillage' has been compiled for  Fade Anim
 [2024.05.15-09.19.00:988][836]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/GameContent/UI_Buttons/quit_button_Sprite.quit_button_Sprite
 [2024.05.15-09.19.00:988][836]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/GameContent/UI_Buttons/resume_button.resume_button
 [2024.05.15-09.19.00:988][836]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/GameContent/UI_Buttons/resume_button_Sprite.resume_button_Sprite
+[2024.05.15-09.20.09:803][379]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue
+[2024.05.15-09.20.09:803][379]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue
+[2024.05.15-09.20.09:812][379]LogActorFactory: Actor Factory spawned SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue as actor: AmbientSound /Game/BeachTutorial.BeachTutorial:PersistentLevel.AmbientSound_0
+[2024.05.15-09.20.09:813][379]LogActorFactory: Actor Factory spawned SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue as actor: AmbientSound /Game/BeachTutorial.BeachTutorial:PersistentLevel.AmbientSound_0
+[2024.05.15-09.20.11:113][455]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue
+[2024.05.15-09.20.11:113][455]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue
+[2024.05.15-09.20.11:124][455]LogActorFactory: Actor Factory spawned SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue as actor: AmbientSound /Game/BeachTutorial.BeachTutorial:PersistentLevel.AmbientSound_1
+[2024.05.15-09.20.11:124][455]LogActorFactory: Actor Factory spawned SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue as actor: AmbientSound /Game/BeachTutorial.BeachTutorial:PersistentLevel.AmbientSound_1
+[2024.05.15-09.20.38:520][ 66]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-09.20.38:587][ 67]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-09.21.05:996][683]Cmd: DUPLICATE
+[2024.05.15-09.21.05:996][683]Cmd: ACTOR DUPLICATE
+[2024.05.15-09.21.22:928][683]Cmd: DUPLICATE
+[2024.05.15-09.21.22:928][683]Cmd: ACTOR DUPLICATE
+[2024.05.15-09.21.32:865][270]Cmd: DUPLICATE
+[2024.05.15-09.21.32:865][270]Cmd: ACTOR DUPLICATE
+[2024.05.15-09.21.46:434][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-09.21.46:532][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BeachTutorial" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/BeachTutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.15-09.21.46:571][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.05.15-09.21.46:586][ 68]LogSavePackage: Moving output files for package: /Game/BeachTutorial
+[2024.05.15-09.21.46:587][ 68]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/BeachTutorial9A5BEA864CF0AAACC3387A86DAF73301.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/BeachTutorial.umap'
+[2024.05.15-09.21.46:599][ 68]LogFileHelpers: Saving map 'BeachTutorial' took 0.067
+[2024.05.15-09.21.46:616][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 641 ms)
+[2024.05.15-09.21.46:620][ 68]AssetCheck: New page: Asset Save: BeachTutorial
+[2024.05.15-09.21.46:620][ 68]LogContentValidation: Display: Validating /Script/Engine.World /Game/BeachTutorial.BeachTutorial
+[2024.05.15-09.24.57:937][764]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (HONOR Earbuds X5), InstanceID=1
+[2024.05.15-09.24.58:148][764]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13800
+[2024.05.15-09.24.58:484][765]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{9c6a022e-77dc-450a-a972-f00e41377298}, Name=Headphones (HONOR Earbuds X5)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=152.82
+[2024.05.15-09.24.58:484][765]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.15-09.24.58:487][765]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.15-09.27.54:728][800]LogAssetTools: Warning: Two factories registered with same priority : WmfFileMediaSourceFactory_0 and AvfFileMediaSourceFactory_0
+[2024.05.15-09.27.54:728][800]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 ../../../../../Videos/Golden Island anim.mov)
+[2024.05.15-09.28.07:304][370]LogAssetTools: Warning: Two factories registered with same priority : AndroidFileMediaSourceFactory_0 and WmfFileMediaSourceFactory_1
+[2024.05.15-09.28.10:468][370]LogSlate: Window 'Message' being destroyed
+[2024.05.15-09.28.10:480][370]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/GameContent/Golden_Island_anim
+[2024.05.15-09.28.10:481][370]LogFactory: FactoryCreateFile: FileMediaSource with AndroidFileMediaSourceFactory (0 0 ../../../../../Videos/Golden Island anim.mp4)
+[2024.05.15-09.28.16:780][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.05.15-09.28.18:197][732]LogSlate: Window 'Save Content' being destroyed
+[2024.05.15-09.28.18:217][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-09.28.18:347][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Golden_Island_anim" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Golden_Island_anim.uasset" SILENT=true
+[2024.05.15-09.28.18:350][732]LogSavePackage: Moving output files for package: /Game/GameContent/Golden_Island_anim
+[2024.05.15-09.28.18:350][732]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/Golden_Island_anim74FDBD30404BD48B509400A4F7941062.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Golden_Island_anim.uasset'
+[2024.05.15-09.28.18:369][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 793 ms)
+[2024.05.15-09.28.18:371][732]AssetCheck: New page: Asset Save: Golden_Island_anim
+[2024.05.15-09.28.18:371][732]LogContentValidation: Display: Validating /Script/MediaAssets.FileMediaSource /Game/GameContent/Golden_Island_anim.Golden_Island_anim
+[2024.05.15-09.59.27:077][103]LogSlate: Window 'New Level' being destroyed
+[2024.05.15-09.59.27:091][103]LightingResults: New page: Lighting Build
+[2024.05.15-09.59.27:134][103]LogWorld: UWorld::CleanupWorld for BeachTutorial, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-09.59.27:134][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-09.59.27:135][103]MapCheck: New page: Map Check
+[2024.05.15-09.59.27:135][103]LightingResults: New page: Lighting Build
+[2024.05.15-09.59.27:163][103]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.15-09.59.27:172][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.05.15-09.59.27:175][103]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-09.59.27:177][103]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-09.59.27:178][103]LogAIModule: Creating AISystem for world Untitled
+[2024.05.15-09.59.27:181][103]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.05.15-09.59.27:279][103]LoadErrors: New page: New Map
+[2024.05.15-09.59.36:937][339]LogSlate: Window 'Save Level As' being destroyed
+[2024.05.15-09.59.37:159][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.15-09.59.37:206][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.05.15-09.59.37:213][339]LogSavePackage: Moving output files for package: /Game/MainMenu
+[2024.05.15-09.59.37:214][339]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/MainMenu436EA688478F3FB1EB8ED9B07513C81B.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/MainMenu.umap'
+[2024.05.15-09.59.37:249][339]LogFileHelpers: Saving map 'MainMenu' took 0.288
+[2024.05.15-09.59.37:250][339]Cmd: MAP LOAD FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.15-09.59.37:250][339]LightingResults: New page: Lighting Build
+[2024.05.15-09.59.37:250][339]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.05.15-09.59.37:280][339]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-09.59.37:280][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-09.59.37:280][339]MapCheck: New page: Map Check
+[2024.05.15-09.59.37:280][339]LightingResults: New page: Lighting Build
+[2024.05.15-09.59.37:301][339]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.15-09.59.37:303][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.05.15-09.59.37:307][339]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.05.15-09.59.37:307][339]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-09.59.37:307][339]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-09.59.37:307][339]LogAIModule: Creating AISystem for world MainMenu
+[2024.05.15-09.59.37:347][339]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.15-09.59.37:366][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.05.15-09.59.37:373][339]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.15-09.59.37:373][339]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2024.05.15-09.59.37:377][339]AssetCheck: New page: Asset Save: MainMenu
+[2024.05.15-09.59.37:377][339]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMenu.MainMenu
+[2024.05.15-09.59.43:316][530]LogSlate: Window 'New Level' being destroyed
+[2024.05.15-09.59.43:337][530]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.15-09.59.43:344][530]LightingResults: New page: Lighting Build
+[2024.05.15-09.59.43:344][530]LoadErrors: New page: Loading map: Template_Default.umap
+[2024.05.15-09.59.43:374][530]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-09.59.43:374][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-09.59.43:375][530]MapCheck: New page: Map Check
+[2024.05.15-09.59.43:375][530]LightingResults: New page: Lighting Build
+[2024.05.15-09.59.43:391][530]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.15-09.59.43:397][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.05.15-09.59.43:403][530]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_3'.
+[2024.05.15-09.59.43:403][530]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-09.59.43:403][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-09.59.43:404][530]LogAIModule: Creating AISystem for world Untitled_3
+[2024.05.15-09.59.43:489][530]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.15-09.59.43:509][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.05.15-09.59.43:510][530]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.15-09.59.43:511][530]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.496ms to complete.
+[2024.05.15-09.59.50:885][647]LogSlate: Window 'Save Level As' being destroyed
+[2024.05.15-09.59.51:051][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eastern_Village" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Eastern_Village.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.15-09.59.51:093][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.05.15-09.59.51:104][647]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.05.15-09.59.51:104][647]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/Eastern_Village8BC780FD457D9460F0AF8892D48096A3.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Eastern_Village.umap'
+[2024.05.15-09.59.51:129][647]LogFileHelpers: Saving map 'Eastern_Village' took 0.218
+[2024.05.15-09.59.51:129][647]Cmd: MAP LOAD FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Eastern_Village.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.15-09.59.51:129][647]LightingResults: New page: Lighting Build
+[2024.05.15-09.59.51:129][647]LoadErrors: New page: Loading map: Eastern_Village.umap
+[2024.05.15-09.59.51:151][647]LogWorld: UWorld::CleanupWorld for Eastern_Village, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-09.59.51:151][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-09.59.51:151][647]MapCheck: New page: Map Check
+[2024.05.15-09.59.51:151][647]LightingResults: New page: Lighting Build
+[2024.05.15-09.59.51:167][647]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.15-09.59.51:170][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.05.15-09.59.51:174][647]LogAudio: Display: Audio Device (ID: 1) registered with world 'Eastern_Village'.
+[2024.05.15-09.59.51:174][647]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-09.59.51:174][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-09.59.51:175][647]LogAIModule: Creating AISystem for world Eastern_Village
+[2024.05.15-09.59.51:252][647]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.15-09.59.51:271][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.05.15-09.59.51:277][647]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.15-09.59.51:277][647]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.171ms to complete.
+[2024.05.15-09.59.51:277][647]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.05.15-09.59.51:279][647]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.05.15-09.59.53:193][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-09.59.53:297][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eastern_Village" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Eastern_Village.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.15-09.59.53:333][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.05.15-09.59.53:344][751]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.05.15-09.59.53:345][751]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/Eastern_Village10BBDF55434AE9242C9D1C9343897965.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Eastern_Village.umap'
+[2024.05.15-09.59.53:353][751]LogFileHelpers: Saving map 'Eastern_Village' took 0.057
+[2024.05.15-09.59.53:365][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 966 ms)
+[2024.05.15-09.59.53:369][751]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.05.15-09.59.53:369][751]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.05.15-09.59.58:495][894]LogSlate: Window 'New Level' being destroyed
+[2024.05.15-09.59.58:541][894]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.15-09.59.58:541][894]LightingResults: New page: Lighting Build
+[2024.05.15-09.59.58:541][894]LoadErrors: New page: Loading map: Template_Default.umap
+[2024.05.15-09.59.58:601][894]LogWorld: UWorld::CleanupWorld for Eastern_Village, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-09.59.58:601][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-09.59.58:601][894]MapCheck: New page: Map Check
+[2024.05.15-09.59.58:601][894]LightingResults: New page: Lighting Build
+[2024.05.15-09.59.58:617][894]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.15-09.59.58:620][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.05.15-09.59.58:626][894]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_4'.
+[2024.05.15-09.59.58:626][894]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-09.59.58:626][894]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-09.59.58:627][894]LogAIModule: Creating AISystem for world Untitled_4
+[2024.05.15-09.59.58:706][894]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.15-09.59.58:724][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.05.15-09.59.58:725][894]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.15-09.59.58:725][894]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.245ms to complete.
+[2024.05.15-10.00.05:286][ 14]LogSlate: Window 'Save Level As' being destroyed
+[2024.05.15-10.00.05:465][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Western_Village" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Western_Village.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.15-10.00.05:511][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.05.15-10.00.05:522][ 14]LogSavePackage: Moving output files for package: /Game/Western_Village
+[2024.05.15-10.00.05:523][ 14]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/Western_Village0098A8ED4EBAC9DBC8C309A8E73E54F7.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Western_Village.umap'
+[2024.05.15-10.00.05:548][ 14]LogFileHelpers: Saving map 'Western_Village' took 0.244
+[2024.05.15-10.00.05:548][ 14]Cmd: MAP LOAD FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Western_Village.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.15-10.00.05:549][ 14]LightingResults: New page: Lighting Build
+[2024.05.15-10.00.05:549][ 14]LoadErrors: New page: Loading map: Western_Village.umap
+[2024.05.15-10.00.05:577][ 14]LogWorld: UWorld::CleanupWorld for Western_Village, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-10.00.05:577][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-10.00.05:577][ 14]MapCheck: New page: Map Check
+[2024.05.15-10.00.05:577][ 14]LightingResults: New page: Lighting Build
+[2024.05.15-10.00.05:599][ 14]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.15-10.00.05:601][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.05.15-10.00.05:608][ 14]LogAudio: Display: Audio Device (ID: 1) registered with world 'Western_Village'.
+[2024.05.15-10.00.05:608][ 14]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-10.00.05:608][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-10.00.05:608][ 14]LogAIModule: Creating AISystem for world Western_Village
+[2024.05.15-10.00.05:693][ 14]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.15-10.00.05:713][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.05.15-10.00.05:719][ 14]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.15-10.00.05:719][ 14]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.196ms to complete.
+[2024.05.15-10.00.05:721][ 14]AssetCheck: New page: Asset Save: Western_Village
+[2024.05.15-10.00.05:721][ 14]LogContentValidation: Display: Validating /Script/Engine.World /Game/Western_Village.Western_Village
+[2024.05.15-10.00.07:513][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-10.00.07:624][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Western_Village" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Western_Village.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.15-10.00.07:663][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.05.15-10.00.07:673][106]LogSavePackage: Moving output files for package: /Game/Western_Village
+[2024.05.15-10.00.07:675][106]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/Western_VillageDD8EFE1D4C8BEDD3DF9CE09AFCAAD5D2.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Western_Village.umap'
+[2024.05.15-10.00.07:683][106]LogFileHelpers: Saving map 'Western_Village' took 0.059
+[2024.05.15-10.00.07:696][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 1.14 sec)
+[2024.05.15-10.00.07:699][106]AssetCheck: New page: Asset Save: Western_Village
+[2024.05.15-10.00.07:699][106]LogContentValidation: Display: Validating /Script/Engine.World /Game/Western_Village.Western_Village
+[2024.05.15-10.07.50:290][792]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.307 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1525 files in 2562 folders with total size 78 MiB.
+[2024.05.15-11.07.50:169][588]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.185 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1525 files in 2562 folders with total size 78 MiB.
