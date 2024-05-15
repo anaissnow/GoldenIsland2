@@ -17,10 +17,6 @@
 				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/woodland-bird-calls-in-spring-23905.uasset",
 				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/SFX/woodland-bird-calls-in-spring-23905_Cue.uasset",
 				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/BeachTutorial.umap",
-				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/BP_Transition_WesternVillage.uasset",
-				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/BP_Transition_EasternVillagePuzzle.uasset",
-				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/BP_Transition_EasternVillage.uasset",
-				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/BP_Transition_Beach.uasset",
 				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/UI_Buttons/main_menu_button.uasset",
 				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/UI_Buttons/main_menu_button_Sprite.uasset",
 				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/UI_Buttons/option_button.uasset",
@@ -46,7 +42,12 @@
 				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Pickup_Items/brown_cap_mushroom.uasset",
 				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Pickup_Items/enotaki_mushroom.uasset",
 				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Pickup_Items/mushroom_body.uasset",
-				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Pickup_Items/mushroom_cap.uasset"
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Pickup_Items/mushroom_cap.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/BP_NextLevel1.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/BP_Transition_WesternVillage.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/BP_Transition_EasternVillagePuzzle.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/BP_Transition_EasternVillage.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Transition/BP_Transition_Beach.uasset"
 			]
 		}
 	]
