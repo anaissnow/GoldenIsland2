@@ -3355,3 +3355,341 @@ An asset already exists at the import location: /Game/GameContent/Golden_Island_
 [2024.05.15-15.31.14:351][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
 [2024.05.15-15.31.14:376][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
 [2024.05.15-15.31.14:583][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.05.15-15.41.56:009][107]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/GameContent/MenuMediaPlayer_Video_Mat.MenuMediaPlayer_Video_Mat
+[2024.05.15-15.41.56:052][107]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-15.41.56:052][107]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-15.41.56:191][107]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.05.15-15.41.56:501][107]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.15-15.41.56:501][107]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.15-15.41.56:501][107]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.15-15.41.56:501][107]MaterialEditorStats: Shader Count: 0
+[2024.05.15-15.41.56:531][107]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: ================================================
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: Total job queries 79, among them cache hits 26 (32.91%)
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: Tracking 53 distinct input hashes that result in 45 distinct outputs (84.91%)
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: RAM used: 1.17 MiB of 819.20 MiB budget. Usage: 0.14%
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: Shaders Compiled: 53
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: Jobs assigned 53, completed 53 (100%)
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: Average time worker was idle: 335.80 s
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: Time job spent in pending queue: average 0.77 s, longest 2.34 s
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: Job execution time: average 0.68 s, max 1.67 s
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: Job life time (pending + execution): average 1.44 s, max 2.97
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: Shader code size: average 37.105 KiB, min 5.816 KiB, max 61.566 KiB
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.44 s
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: Jobs were issued in 53 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: Average processing rate: 7.12 jobs/sec
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: Total thread time: 23.745 s
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: Total thread preprocess time: 5.034 s
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: Percentage time preprocessing: 21.20%
+[2024.05.15-15.41.56:647][108]LogShaderCompilers: Display: Effective parallelization: 3.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.15-15.41.56:648][108]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.15-15.41.56:648][108]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.74 sec, max 0.87 sec, min 0.61 sec)
+[2024.05.15-15.41.56:648][108]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2024.05.15-15.41.56:648][108]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2024.05.15-15.41.56:648][108]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.57 sec, max 0.59 sec, min 0.56 sec)
+[2024.05.15-15.41.56:648][108]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.57 sec, max 0.61 sec, min 0.52 sec)
+[2024.05.15-15.41.56:648][108]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.15-15.41.56:648][108]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.22% of total time (compiled    2 times, average 0.74 sec, max 0.87 sec, min 0.61 sec)
+[2024.05.15-15.41.56:648][108]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.84% of total time (compiled    2 times, average 0.57 sec, max 0.59 sec, min 0.56 sec)
+[2024.05.15-15.41.56:648][108]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.76% of total time (compiled    2 times, average 0.57 sec, max 0.61 sec, min 0.52 sec)
+[2024.05.15-15.41.56:648][108]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.55% of total time (compiled    2 times, average 0.54 sec, max 0.65 sec, min 0.43 sec)
+[2024.05.15-15.41.56:648][108]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.41% of total time (compiled    2 times, average 0.52 sec, max 0.60 sec, min 0.45 sec)
+[2024.05.15-15.41.56:648][108]LogShaderCompilers: Display: ================================================
+[2024.05.15-15.41.56:699][109]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.05.15-15.41.56:699][109]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.15-15.41.56:699][109]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.15-15.41.56:699][109]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.15-15.41.56:699][109]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.15-15.41.56:700][109]MaterialEditorStats: Shader Count: 12
+[2024.05.15-15.42.04:237][498]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.15-15.42.04:237][498]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.15-15.42.04:237][498]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.15-15.42.04:237][498]MaterialEditorStats: Shader Count: 0
+[2024.05.15-15.42.04:996][528]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.15-15.42.04:996][528]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.15-15.42.04:996][528]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.15-15.42.04:996][528]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.15-15.42.04:996][528]MaterialEditorStats: Shader Count: 1
+[2024.05.15-15.42.05:120][533]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.15-15.42.05:120][533]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.15-15.42.05:121][533]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.15-15.42.05:121][533]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.15-15.42.05:121][533]MaterialEditorStats: Shader Count: 3
+[2024.05.15-15.42.05:432][546]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.05.15-15.42.05:432][546]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.15-15.42.05:432][546]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.15-15.42.05:432][546]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.15-15.42.05:432][546]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.15-15.42.05:432][546]MaterialEditorStats: Shader Count: 9
+[2024.05.15-15.43.07:679][859]LogMaterialEditor: Saving and Compiling material MenuMediaPlayer_Video_Mat
+[2024.05.15-15.43.08:337][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.05.15-15.43.09:161][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.05.15-15.43.09:181][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-15.43.10:917][859]LogSavePackage: Moving output files for package: /Game/GameContent/MenuMediaPlayer_Video_Mat
+[2024.05.15-15.43.10:918][859]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/MenuMediaPlayer_Video_Mat2AE295AF48FF968813E2D68C21F25371.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/MenuMediaPlayer_Video_Mat.uasset'
+[2024.05.15-15.43.10:928][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.74 sec (total: 8.28 sec)
+[2024.05.15-15.43.10:930][859]AssetCheck: New page: Asset Save: MenuMediaPlayer_Video_Mat
+[2024.05.15-15.43.10:930][859]LogContentValidation: Display: Validating /Script/Engine.Material /Game/GameContent/MenuMediaPlayer_Video_Mat.MenuMediaPlayer_Video_Mat
+[2024.05.15-15.43.10:937][859]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.05.15-15.43.10:937][859]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.15-15.43.10:937][859]MaterialEditorStats: MaxSampler: 252 instructions
+[2024.05.15-15.43.10:937][859]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.15-15.43.10:937][859]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.15-15.43.10:937][859]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.15-15.43.10:937][859]MaterialEditorStats: Shader Count: 35
+[2024.05.15-15.43.12:292][913]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-15.43.12:292][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-15.43.30:135][386]LogSlate: Window 'Save Asset As' being destroyed
+[2024.05.15-15.43.30:158][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-15.43.30:313][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/MainMenu" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/MainMenu.uasset" SILENT=true
+[2024.05.15-15.43.30:314][386]LogSavePackage: Moving output files for package: /Game/GameContent/MainMenu
+[2024.05.15-15.43.30:314][386]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/MainMenuDF4D17834F9E05F88F86B194B6280C01.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/MainMenu.uasset'
+[2024.05.15-15.43.30:331][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 8.45 sec)
+[2024.05.15-15.43.30:382][386]AssetCheck: New page: Asset Save: MainMenu
+[2024.05.15-15.43.30:382][386]LogContentValidation: Display: Validating /Script/MediaAssets.MediaPlaylist /Game/GameContent/MainMenu.MainMenu
+[2024.05.15-15.43.38:016][820]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.15-15.43.38:070][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.15-15.43.38:070][820]PIE: New page: PIE session: MainMenu (16 May 2024, 7:43:38 am)
+[2024.05.15-15.43.38:070][820]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2024.05.15-15.43.38:071][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001845s)
+[2024.05.15-15.43.38:071][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.001896s)
+[2024.05.15-15.43.38:109][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.05.15-15.43.38:115][820]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-15.43.38:115][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-15.43.38:116][820]LogAIModule: Creating AISystem for world MainMenu
+[2024.05.15-15.43.38:116][820]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2024.05.15-15.43.38:116][820]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.05.15-15.43.38:116][820]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-15.43.38:116][820]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-15.43.38:116][820]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-15.43.38:116][820]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-15.43.38:116][820]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-15.43.38:116][820]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.15-15.43.38:116][820]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-15.43.38:116][820]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-15.43.38:117][820]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-15.43.38:117][820]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-15.43.38:117][820]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-15.43.38:119][820]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-15.43.38:202][820]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.15-15.43.38:204][820]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-15.43.38:204][820]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-15.43.38:204][820]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-15.43.38:207][820]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.05.15-15.43.38:207][820]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.05.15-15.43.38:209][820]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.05.15-15.43.38:209][820]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.05.15-15.43.38:209][820]LogInit: FAudioDevice initialized with ID 13.
+[2024.05.15-15.43.38:209][820]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainMenu'.
+[2024.05.15-15.43.38:209][820]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.05.15-15.43.38:213][820]LogLoad: Game class is 'GameModeBase'
+[2024.05.15-15.43.38:213][820]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2024.05.15-23.43.38
+[2024.05.15-15.43.38:213][820]LogWorld: Bringing up level for play took: 0.000508
+[2024.05.15-15.43.38:217][820]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.05.15-15.43.38:218][820]PIE: Server logged in
+[2024.05.15-15.43.38:219][820]PIE: Play in editor total start time 0.195 seconds.
+[2024.05.15-15.43.45:861][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-15.43.45:861][203]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2024.05.15-15.43.45:861][203]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-15.43.45:862][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-15.43.45:865][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-15.43.45:870][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-15.43.45:885][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-15.43.45:885][203]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.05.15-15.43.45:885][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.05.15-15.43.45:887][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.05.15-15.43.45:912][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.05.15-15.43.46:257][204]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.05.15-15.50.06:977][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.05.15-15.50.06:980][917]Cmd: MAP LOAD FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Eastern_Village.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.15-15.50.06:981][917]LightingResults: New page: Lighting Build
+[2024.05.15-15.50.06:981][917]LoadErrors: New page: Loading map: Eastern_Village.umap
+[2024.05.15-15.50.07:007][917]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-15.50.07:007][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-15.50.07:007][917]MapCheck: New page: Map Check
+[2024.05.15-15.50.07:007][917]LightingResults: New page: Lighting Build
+[2024.05.15-15.50.07:021][917]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.15-15.50.07:026][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.05.15-15.50.07:033][917]LogAudio: Display: Audio Device (ID: 1) registered with world 'Eastern_Village'.
+[2024.05.15-15.50.07:033][917]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-15.50.07:033][917]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-15.50.07:033][917]LogAIModule: Creating AISystem for world Eastern_Village
+[2024.05.15-15.50.07:176][917]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.15-15.50.07:195][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.05.15-15.50.07:201][917]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.15-15.50.07:201][917]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
+[2024.05.15-15.50.07:201][917]LogSlate: Window 'Open Level' being destroyed
+[2024.05.15-15.50.28:284][ 65]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/Buildings/hut.hut
+[2024.05.15-15.50.28:284][ 65]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/Buildings/hut.hut
+[2024.05.15-15.50.28:285][ 65]LogActorFactory: Actor Factory spawned StaticMesh /Game/GameContent/Pickup_Items/Buildings/hut.hut as actor: StaticMeshActor /Game/Eastern_Village.Eastern_Village:PersistentLevel.StaticMeshActor_0
+[2024.05.15-15.50.28:740][ 91]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/Buildings/hut.hut
+[2024.05.15-15.50.28:740][ 91]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/Buildings/hut.hut
+[2024.05.15-15.50.28:750][ 91]LogActorFactory: Actor Factory spawned StaticMesh /Game/GameContent/Pickup_Items/Buildings/hut.hut as actor: StaticMeshActor /Game/Eastern_Village.Eastern_Village:PersistentLevel.StaticMeshActor_2
+[2024.05.15-15.50.51:918][419]Cmd: DUPLICATE
+[2024.05.15-15.50.51:919][419]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.50.59:871][884]Cmd: DUPLICATE
+[2024.05.15-15.50.59:871][884]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.51.13:343][657]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/Buildings/hut.hut
+[2024.05.15-15.51.13:343][657]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/Buildings/hut.hut
+[2024.05.15-15.51.13:343][657]LogActorFactory: Actor Factory spawned StaticMesh /Game/GameContent/Pickup_Items/Buildings/hut.hut as actor: StaticMeshActor /Game/Eastern_Village.Eastern_Village:PersistentLevel.StaticMeshActor_5
+[2024.05.15-15.51.15:652][794]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/Buildings/hut.hut
+[2024.05.15-15.51.15:652][794]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/Buildings/hut.hut
+[2024.05.15-15.51.15:653][794]LogActorFactory: Actor Factory spawned StaticMesh /Game/GameContent/Pickup_Items/Buildings/hut.hut as actor: StaticMeshActor /Game/Eastern_Village.Eastern_Village:PersistentLevel.StaticMeshActor_6
+[2024.05.15-15.51.20:789][ 80]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/Buildings/hut.hut
+[2024.05.15-15.51.20:789][ 80]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/Buildings/hut.hut
+[2024.05.15-15.51.20:790][ 80]LogActorFactory: Actor Factory spawned StaticMesh /Game/GameContent/Pickup_Items/Buildings/hut.hut as actor: StaticMeshActor /Game/Eastern_Village.Eastern_Village:PersistentLevel.StaticMeshActor_7
+[2024.05.15-15.51.22:752][196]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/Buildings/hut.hut
+[2024.05.15-15.51.22:753][196]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/Buildings/hut.hut
+[2024.05.15-15.51.22:754][196]LogActorFactory: Actor Factory spawned StaticMesh /Game/GameContent/Pickup_Items/Buildings/hut.hut as actor: StaticMeshActor /Game/Eastern_Village.Eastern_Village:PersistentLevel.StaticMeshActor_8
+[2024.05.15-15.51.46:246][529]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/oak_tree.oak_tree
+[2024.05.15-15.51.46:246][529]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/oak_tree.oak_tree
+[2024.05.15-15.51.46:247][529]LogActorFactory: Actor Factory spawned StaticMesh /Game/GameContent/Pickup_Items/oak_tree.oak_tree as actor: StaticMeshActor /Game/Eastern_Village.Eastern_Village:PersistentLevel.StaticMeshActor_9
+[2024.05.15-15.51.47:675][613]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/oak_tree.oak_tree
+[2024.05.15-15.51.47:675][613]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/oak_tree.oak_tree
+[2024.05.15-15.51.47:675][613]LogActorFactory: Actor Factory spawned StaticMesh /Game/GameContent/Pickup_Items/oak_tree.oak_tree as actor: StaticMeshActor /Game/Eastern_Village.Eastern_Village:PersistentLevel.StaticMeshActor_10
+[2024.05.15-15.51.49:148][698]Cmd: DUPLICATE
+[2024.05.15-15.51.49:148][698]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.51.53:479][952]Cmd: DUPLICATE
+[2024.05.15-15.51.53:479][952]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.51.58:649][241]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/pine_tree.pine_tree
+[2024.05.15-15.51.58:649][241]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/pine_tree.pine_tree
+[2024.05.15-15.51.58:649][241]LogActorFactory: Actor Factory spawned StaticMesh /Game/GameContent/Pickup_Items/pine_tree.pine_tree as actor: StaticMeshActor /Game/Eastern_Village.Eastern_Village:PersistentLevel.StaticMeshActor_13
+[2024.05.15-15.52.00:231][334]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/pine_tree.pine_tree
+[2024.05.15-15.52.00:231][334]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/pine_tree.pine_tree
+[2024.05.15-15.52.00:233][334]LogActorFactory: Actor Factory spawned StaticMesh /Game/GameContent/Pickup_Items/pine_tree.pine_tree as actor: StaticMeshActor /Game/Eastern_Village.Eastern_Village:PersistentLevel.StaticMeshActor_14
+[2024.05.15-15.52.01:413][402]Cmd: DUPLICATE
+[2024.05.15-15.52.01:413][402]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.52.03:808][541]Cmd: DUPLICATE
+[2024.05.15-15.52.03:808][541]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.52.10:656][944]Cmd: DUPLICATE
+[2024.05.15-15.52.10:656][944]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.52.14:825][188]Cmd: DUPLICATE
+[2024.05.15-15.52.14:825][188]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.52.18:344][393]Cmd: DUPLICATE
+[2024.05.15-15.52.18:344][393]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.52.22:320][622]Cmd: DUPLICATE
+[2024.05.15-15.52.22:320][622]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.52.25:178][789]Cmd: DUPLICATE
+[2024.05.15-15.52.25:178][789]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.52.27:844][944]Cmd: DUPLICATE
+[2024.05.15-15.52.27:844][944]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.53.05:161][108]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_Player_Menu_C /Game/Eastern_Village.Eastern_Village:W_Player_Menu_C_0
+	Function /Game/UI_Mechanics/Inventory/Inventory_UI/W_Player_Menu.W_Player_Menu_C:ExecuteUbergraph_W_Player_Menu:011C
+[2024.05.15-15.53.21:727][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Blender/Exports/Golden Island assets/brown cap mushroom.fbx)
+[2024.05.15-15.53.21:750][571]LogFbx: Loading FBX Scene from ../../../../Blender/Exports/Golden Island assets/brown cap mushroom.fbx
+[2024.05.15-15.53.21:757][571]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.15-15.53.23:699][571]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.15-15.53.23:940][571]LogFbx: Display: Triangulating static mesh mushroom
+[2024.05.15-15.53.24:025][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.05.15-15.53.24:184][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Blender/Exports/Golden Island assets/enotaki mushroom.fbx)
+[2024.05.15-15.53.24:216][571]LogFbx: Loading FBX Scene from ../../../../Blender/Exports/Golden Island assets/enotaki mushroom.fbx
+[2024.05.15-15.53.24:367][571]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.15-15.53.24:513][571]LogFbx: Display: Triangulating static mesh enotaki mushroom.011
+[2024.05.15-15.53.37:666][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.05.15-15.53.40:536][716]LogSlate: Window 'Message Log' being destroyed
+[2024.05.15-15.53.40:545][716]LogSlate: Window 'Message Log' being destroyed
+[2024.05.15-15.53.41:792][786]LogShaderCompilers: Display: ================================================
+[2024.05.15-15.53.41:792][786]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.15-15.53.41:792][786]LogShaderCompilers: Display: Total job queries 167, among them cache hits 79 (47.31%)
+[2024.05.15-15.53.41:792][786]LogShaderCompilers: Display: Tracking 88 distinct input hashes that result in 56 distinct outputs (63.64%)
+[2024.05.15-15.53.41:792][786]LogShaderCompilers: Display: RAM used: 1.99 MiB of 819.20 MiB budget. Usage: 0.24%
+[2024.05.15-15.53.41:792][786]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.15-15.53.41:792][786]LogShaderCompilers: Display: Shaders Compiled: 88
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display: Jobs assigned 88, completed 88 (100%)
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display: Average time worker was idle: 281.37 s
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display: Time job spent in pending queue: average 0.61 s, longest 2.34 s
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display: Job execution time: average 0.65 s, max 1.67 s
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display: Job life time (pending + execution): average 1.26 s, max 2.97
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display: Shader code size: average 37.573 KiB, min 5.816 KiB, max 61.699 KiB
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.67 s
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display: Jobs were issued in 88 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display: Average processing rate: 7.54 jobs/sec
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display: Total thread time: 37.615 s
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display: Total thread preprocess time: 6.895 s
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display: Percentage time preprocessing: 18.33%
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display: Effective parallelization: 3.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.62 sec, max 0.87 sec, min 0.39 sec)
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.60 sec, max 0.65 sec, min 0.56 sec)
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.55 sec, max 0.59 sec, min 0.51 sec)
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.54 sec, max 0.61 sec, min 0.41 sec)
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 0.53 sec, max 0.65 sec, min 0.43 sec)
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.62% of total time (compiled    4 times, average 0.62 sec, max 0.87 sec, min 0.39 sec)
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.73% of total time (compiled    4 times, average 0.54 sec, max 0.61 sec, min 0.41 sec)
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.42% of total time (compiled    3 times, average 0.55 sec, max 0.59 sec, min 0.51 sec)
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.21% of total time (compiled    3 times, average 0.53 sec, max 0.65 sec, min 0.43 sec)
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.15% of total time (compiled    3 times, average 0.52 sec, max 0.60 sec, min 0.45 sec)
+[2024.05.15-15.53.41:793][786]LogShaderCompilers: Display: ================================================
+[2024.05.15-15.53.43:674][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.05.15-15.53.44:752][889]LogSlate: Window 'Save Content' being destroyed
+[2024.05.15-15.53.44:775][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-15.53.44:900][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eastern_Village" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Eastern_Village.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.15-15.53.44:939][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.05.15-15.53.44:958][889]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.05.15-15.53.44:960][889]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/Eastern_Village97C7BEE244D182DE40CF1AA7AD39A314.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Eastern_Village.umap'
+[2024.05.15-15.53.44:972][889]LogFileHelpers: Saving map 'Eastern_Village' took 0.073
+[2024.05.15-15.53.45:035][889]LogSavePackage: Moving output files for package: /Game/GameContent/Pickup_Items/brown_cap_mushroom
+[2024.05.15-15.53.45:035][889]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/brown_cap_mushroom4387A5B64DC6C856A40392822BA13A48.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Pickup_Items/brown_cap_mushroom.uasset'
+[2024.05.15-15.53.45:180][889]LogSavePackage: Moving output files for package: /Game/GameContent/Pickup_Items/enotaki_mushroom
+[2024.05.15-15.53.45:181][889]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/enotaki_mushroomB51BF9F349EBE584826FFCA2CA4F28BA.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Pickup_Items/enotaki_mushroom.uasset'
+[2024.05.15-15.53.45:209][889]LogSavePackage: Moving output files for package: /Game/GameContent/Pickup_Items/mushroom_body
+[2024.05.15-15.53.45:209][889]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/mushroom_body766C3CFA4386D4D691A5CA924BCCF2FB.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Pickup_Items/mushroom_body.uasset'
+[2024.05.15-15.53.45:236][889]LogSavePackage: Moving output files for package: /Game/GameContent/Pickup_Items/mushroom_cap
+[2024.05.15-15.53.45:236][889]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/mushroom_capAD93776F44AA5A14078A6297A0E8B05A.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/GameContent/Pickup_Items/mushroom_cap.uasset'
+[2024.05.15-15.53.45:252][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 476 ms (total: 8.93 sec)
+[2024.05.15-15.53.45:259][889]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.15-15.53.45:259][889]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.05.15-15.53.45:259][889]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/GameContent/Pickup_Items/brown_cap_mushroom.brown_cap_mushroom
+[2024.05.15-15.53.45:259][889]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/GameContent/Pickup_Items/enotaki_mushroom.enotaki_mushroom
+[2024.05.15-15.53.45:259][889]LogContentValidation: Display: Validating /Script/Engine.Material /Game/GameContent/Pickup_Items/mushroom_body.mushroom_body
+[2024.05.15-15.53.45:259][889]LogContentValidation: Display: Validating /Script/Engine.Material /Game/GameContent/Pickup_Items/mushroom_cap.mushroom_cap
+[2024.05.15-15.53.53:414][352]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/brown_cap_mushroom.brown_cap_mushroom
+[2024.05.15-15.53.53:414][352]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/brown_cap_mushroom.brown_cap_mushroom
+[2024.05.15-15.53.53:414][352]LogActorFactory: Actor Factory spawned StaticMesh /Game/GameContent/Pickup_Items/brown_cap_mushroom.brown_cap_mushroom as actor: StaticMeshActor /Game/Eastern_Village.Eastern_Village:PersistentLevel.StaticMeshActor_23
+[2024.05.15-15.53.54:833][436]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/brown_cap_mushroom.brown_cap_mushroom
+[2024.05.15-15.53.54:833][436]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameContent/Pickup_Items/brown_cap_mushroom.brown_cap_mushroom
+[2024.05.15-15.53.54:835][436]LogActorFactory: Actor Factory spawned StaticMesh /Game/GameContent/Pickup_Items/brown_cap_mushroom.brown_cap_mushroom as actor: StaticMeshActor /Game/Eastern_Village.Eastern_Village:PersistentLevel.StaticMeshActor_24
+[2024.05.15-15.54.04:256][995]Cmd: DUPLICATE
+[2024.05.15-15.54.04:256][995]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.54.30:625][542]Cmd: DUPLICATE
+[2024.05.15-15.54.30:625][542]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.54.41:427][177]Cmd: DUPLICATE
+[2024.05.15-15.54.41:428][177]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.55.06:473][625]Cmd: DUPLICATE
+[2024.05.15-15.55.06:473][625]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.55.25:823][740]Cmd: DUPLICATE
+[2024.05.15-15.55.25:823][740]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.55.44:237][812]Cmd: DUPLICATE
+[2024.05.15-15.55.44:237][812]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.56.12:837][466]Cmd: DUPLICATE
+[2024.05.15-15.56.12:837][466]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.56.24:042][116]Cmd: DUPLICATE
+[2024.05.15-15.56.24:042][116]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.57.35:806][323]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue
+[2024.05.15-15.57.35:806][323]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue
+[2024.05.15-15.57.35:808][323]LogActorFactory: Actor Factory spawned SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue as actor: AmbientSound /Game/Eastern_Village.Eastern_Village:PersistentLevel.AmbientSound_0
+[2024.05.15-15.57.35:811][323]LogActorFactory: Actor Factory spawned SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue as actor: AmbientSound /Game/Eastern_Village.Eastern_Village:PersistentLevel.AmbientSound_0
+[2024.05.15-15.57.37:413][418]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue
+[2024.05.15-15.57.37:413][418]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue
+[2024.05.15-15.57.37:425][418]LogActorFactory: Actor Factory spawned SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue as actor: AmbientSound /Game/Eastern_Village.Eastern_Village:PersistentLevel.AmbientSound_1
+[2024.05.15-15.57.37:425][418]LogActorFactory: Actor Factory spawned SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue as actor: AmbientSound /Game/Eastern_Village.Eastern_Village:PersistentLevel.AmbientSound_1
+[2024.05.15-15.57.58:117][623]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GameContent/SFX/rustling-leaves-6875_Cue.rustling-leaves-6875_Cue
+[2024.05.15-15.58.32:263][606]Cmd: DUPLICATE
+[2024.05.15-15.58.32:263][606]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.58.52:601][782]Cmd: DUPLICATE
+[2024.05.15-15.58.52:601][782]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.59.04:053][444]Cmd: DUPLICATE
+[2024.05.15-15.59.04:053][444]Cmd: ACTOR DUPLICATE
+[2024.05.15-15.59.21:464][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-15.59.21:573][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eastern_Village" FILE="../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Eastern_Village.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.15-15.59.21:614][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.05.15-15.59.21:634][453]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.05.15-15.59.21:635][453]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Saved/Eastern_Village67D0A2534AF4CEBE3DF535A83B247334.tmp' to '../../../../Y3T2/UJMM2034 Level Design/GoldenIsland2/Golden_Island_2/Content/Eastern_Village.umap'
+[2024.05.15-15.59.21:644][453]LogFileHelpers: Saving map 'Eastern_Village' took 0.072
+[2024.05.15-15.59.21:658][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 9.12 sec)
+[2024.05.15-15.59.21:660][453]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.05.15-15.59.21:660][453]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
